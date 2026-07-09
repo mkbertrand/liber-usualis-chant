@@ -1,14 +1,14 @@
 [
   {
 		"tags":["dismissio","pascha","i-vesperae","vesperae"],
-		"datum":"/gregobase/15464"
+		"datum":"/gregobase/etc/15464"
   },
   {
 		"tags":[
 			["ascensio","vesperae","hymnus"],
 			["ascensio","laudes","hymnus"]
 		],
-		"datum":"/gregobase/2828"
+		"datum":"/gregobase/hymni/2828"
   },
   {
 		"tags":["ascensio","matutinum","hymnus"],
@@ -24,6 +24,6 @@
   {
 		"tags":["pentecostes","hymnus"],
 		"matutinum":"/nocturnale/P7H",
-		"laudes":"/gregobase/2926"
+		"laudes":"/gregobase/hymni/2926"
   }
 ]

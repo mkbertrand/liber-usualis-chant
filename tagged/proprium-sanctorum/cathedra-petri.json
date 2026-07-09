@@ -4,10 +4,10 @@
 			["cathedra-petri","vesperae","hymnus"],
 			["cathedra-petri","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/8160"
+		"datum":"/gregobase/hymni/8160"
   },
   {
 		"tags":["cathedra-petri","laudes","hymnus"],
-		"datum":"/gregobase/13301"
+		"datum":"/gregobase/hymni/13301"
   }
 ]

@@ -13,8 +13,8 @@
   },
   {
 		"tags":["hymnus","te-deum"],
-		"datum":"/gregobase/2305",
-		"solemnis":"/gregobase/2809"
+		"datum":"/gregobase/hymni/2305",
+		"solemnis":"/gregobase/hymni/2809"
   },
   {
 		"tags":["matutinum","feria","hymnus"],

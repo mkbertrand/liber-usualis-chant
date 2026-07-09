@@ -4,10 +4,10 @@
 			["impressio-stigmatum","vesperae","hymnus"],
 			["impressio-stigmatum","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/20105"
+		"datum":"/gregobase/hymni/20105"
   },
   {
 		"tags":["impressio-stigmatum","laudes","hymnus"],
-		"datum":"/gregobase/20106"
+		"datum":"/gregobase/hymni/20106"
   }
 ]

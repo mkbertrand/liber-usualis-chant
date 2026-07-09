@@ -4,10 +4,10 @@
 			["cyrillus-methodius","vesperae","hymnus"],
 			["cyrillus-methodius","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/2006"
+		"datum":"/gregobase/hymni/2006"
   },
   {
 		"tags":["cyrillus-methodius","laudes","hymnus"],
-		"datum":"/gregobase/12688"
+		"datum":"/gregobase/hymni/12688"
   }
 ]

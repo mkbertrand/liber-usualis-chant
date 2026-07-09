@@ -4,10 +4,10 @@
 			["omnes-sancti","vesperae","hymnus"],
 			["omnes-sancti","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/2829"
+		"datum":"/gregobase/hymni/2829"
   },
   {
 		"tags":["omnes-sancti","laudes","hymnus"],
-		"datum":"/gregobase/2520"
+		"datum":"/gregobase/hymni/2520"
   }
 ]

@@ -4,11 +4,11 @@
 			["nativitas","vesperae","hymnus"],
 			["nativitas","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/3001"
+		"datum":"/gregobase/hymni/3001"
   },
   {
 		"tags":["nativitas","laudes","hymnus"],
-		"datum":"/gregobase/2628"
+		"datum":"/gregobase/hymni/2628"
   },
   {
 		"tags":["innocentes","matutinum","hymnus"],
@@ -19,6 +19,6 @@
 			["innocentes","laudes","hymnus"],
 			["innocentes","vesperae","hymnus"]
 		],
-		"datum":"/gregobase/1963"
+		"datum":"/gregobase/hymni/1963"
   }
 ]

@@ -2,12 +2,12 @@
   {
 		"tags":["trinitas","hymnus"],
 		"matutinum":"/nocturnale/H1H",
-		"laudes":"/gregobase/2878"
+		"laudes":"/gregobase/hymni/2878"
   },
   {
 		"tags":["corpus-christi","hymnus"],
-		"vesperae":"/gregobase/1310",
+		"vesperae":"/gregobase/hymni/1310",
     "matutinum":"/nocturnale/H1F5H_marteo",
-		"laudes":"/gregobase/12107"
+		"laudes":"/gregobase/hymni/12107"
   }
 ]

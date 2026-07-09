@@ -4,10 +4,10 @@
 			["epiphania","vesperae","hymnus"],
 			["epiphania","matutinum","hymnus"]
 		],
-		"datum":"/gregobase/2129"
+		"datum":"/gregobase/hymni/2129"
   },
   {
 		"tags":["epiphania","laudes","hymnus"],
-		"datum":"/gregobase/2999"
+		"datum":"/gregobase/hymni/2999"
   }
 ]

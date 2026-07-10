@@ -1,5 +1,10 @@
 [
   {
+    "tags":["laudes","dominica","per-annum","antiphona","antiphona-i"],
+		"datum":"/gregobase/antiphonae/18321",
+		"in-tempore-paschali":"fcc/lapxf1a1",
+  }
+  {
 		"tags":[
 			["laudes","dominica","hymnus"],
 			["laudes","dominica","autumnalis","hymnus"]

@@ -11,6 +11,23 @@
 		"datum":"/nocturnale/EXAPEXH_dcrochu"
   },
   {
+		"tags":["apostolus","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2300",
+		"antiphona-ii":"/gregobase/antiphonae/2104",
+		"antiphona-iii":"/gregobase/antiphonae/2202",
+		"antiphona-iv":"/gregobase/antiphonae/1893",
+		"antiphona-v":"/gregobase/antiphonae/2594"
+  },
+  {
+		"tags":["apostolus","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2112"
+  },
+  {
+		"tags":["apostolus","matutinum","antiphona","antiphona-invitatorium"],
+		"sollemnitas":"/nocturnale/APEXIa",
+		"datum":"/nocturnale/APEXIb"
+  },
+  {
 		"tags":[
 			["apostolorum-tempore-paschali","vesperae","hymnus"],
 			["apostolorum-tempore-paschali","matutinum","hymnus"]

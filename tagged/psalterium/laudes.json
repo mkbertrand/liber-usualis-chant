@@ -40,6 +40,11 @@
   },
   {
     "tags":["laudes","feria","feria-ii","antiphona"],
-		"antiphona-i":"/fcc/lapaf2a1"
+		"antiphona-i":"/fcc/lapaf2a1",
+		"antiphona-ii":"/fcc/lapaf2a2",
+		"antiphona-iii":"/fcc/lapaf2a3",
+		"antiphona-iv":"/fcc/lapaf2a4",
+		"antiphona-v":"/fcc/lapaf2a5",
+		"antiphona-benedictus":"/gregobase/antiphonae/18855"
   }
 ]

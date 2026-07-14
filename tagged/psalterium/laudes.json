@@ -1,9 +1,16 @@
 [
   {
-    "tags":["laudes","dominica","per-annum","antiphona","antiphona-i"],
-		"datum":"/gregobase/antiphonae/18321",
-		"in-tempore-paschali":"fcc/lapxf1a1"
+    "tags":["laudes","dominica","per-annum","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/18321",
+		"antiphona-ii":"/gregobase/antiphonae/13305",
+		"antiphona-iii":"/gregobase/antiphonae/18322"
   },
+  {
+		"tags":["laudes","in-tempore-paschali","temporale","antiphona"],
+		"antiphona-i":"fcc/lapxf1a1",
+		"antiphona-ii":"fcc/lapxf1a2",
+		"antiphona-iii":"fcc/lapxf1a3"
+  }
   {
 		"tags":[
 			["laudes","dominica","hymnus"],

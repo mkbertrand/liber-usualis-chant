@@ -11,6 +11,15 @@
 		"in-tempore-paschali":"/gregobase/hymni/2932"
   },
   {
+		"tags":["vesperae","dominica","ii-vesperae","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/12551",
+		"in-tempore-paschali":"/gregobase/antiphonae/2622",
+		"antiphona-ii":"/gregobase/antiphonae/4144",
+		"antiphona-iii":"/gregobase/antiphonae/4340",
+		"antiphona-iv":"/gregobase/antiphonae/11989",
+		"antiphona-iv":"/gregobase/antiphonae/4316"
+  },
+  {
 		"tags":["vesperae","feria","hymnus"],
 		"feria-ii":"/gregobase/hymni/2655",
 		"feria-iii":"/gregobase/hymni/1924",
@@ -21,5 +30,65 @@
   {
 		"tags":["vesperae","dominica","i-vesperae","hymnus"],
 		"datum":"/gregobase/hymni/2077"
+  },
+  {
+		"tags":["vesperae","feria","feria-ii","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2022",
+		"in-tempore-paschali":"/gregobase/antiphonae/2822",
+		"antiphona-ii":"/fcc/vepaf2a2",
+		"antiphona-iii":"/gregobase/antiphonae/8234",
+		"antiphona-iv":"/fcc/vepaf2a4",
+		"antiphona-v":"/fcc/vepaf2a5",
+		"antiphona-magnificat":"/gregobase/antiphonae/13046"
+  },
+  {
+		"tags":["vesperae","feria","feria-iii","antiphona"],
+		"antiphona-i":"/fcc/vepaf3a1",
+		"in-tempore-paschali":"/fcc/vepxf3a1",
+		"antiphona-ii":"/gregobase/antiphonae/2292",
+		"antiphona-iii":"/gregobase/antiphonae/2426",
+		"antiphona-iv":"/fcc/vepaf3a4",
+		"antiphona-v":"fcc/vepaf3a5",
+		"antiphona-magnificat":"/fcc/vepaf3ma"
+  },
+  {
+		"tags":["vesperae","feria","feria-iv","antiphona"],
+		"antiphona-i":"/fcc/vepaf4a1",
+		"in-tempore-paschali":"/fcc/vepxf4a1",
+		"antiphona-ii":"/gregobase/antiphonae/2266",
+		"antiphona-iii":"/fcc/vepaf4a3",
+		"antiphona-iv":"/gregobase/antiphonae/2316",
+		"antiphona-iv":"/fcc/vepaf4a5",
+		"antiphona-magnificat":"/gregobase/antiphonae/12810"
+  },
+  {
+		"tags":["vesperae","feria","feria-v","antiphona"],
+		"antiphona-i":"/fcc/vepaf5a1",
+		"in-tempore-paschali":"/fcc/vepxf5a1",
+		"antiphona-ii":"/gregobase/antiphonae/2540",
+		"antiphona-iii":"/fcc/vepaf5a3",
+		"antiphona-iv":"/fcc/vepaf5a4",
+		"antiphona-v":"/fcc/vepaf5a5",
+		"antiphona-magnificat":"/fcc/vepaf5ma"
+  },
+  {
+		"tags":["vesperae","feria","feria-vi","antiphona"],
+		"antiphona-i":"/fcc/vepaf6a1",
+		"in-tempore-paschali":"/fcc/vepxf6a1",
+		"antiphona-ii":"/gregobase/antiphonae/2222",
+		"antiphona-iii":"/fcc/vepaf6a3",
+		"antiphona-iv":"/gregobase/antiphonae/2040",
+		"antiphona-v":"/fcc/vepaf6a5",
+		"antiphona-magnificat":"/fcc/vepaf6ma"
+  },
+  {
+		"tags":["vesperae","dominica","i-vesperae","antiphona"],
+		"antiphona-i":"/fcc/vepaf7a1",
+		"in-tempore-paschali":"/fcc/vepxf7a1",
+		"antiphona-ii":"/fcc/vepaf7a2",
+		"antiphona-iii":"/gregobase/antiphonae/13276",
+		"antiphona-iv":"/gregobase/antiphonae/12013",
+		"antiphona-v":"/gregobase/antiphonae/12844",
+		"antiphona-magnificat":"/gregobase/antiphonae/2564"
   }
 ]

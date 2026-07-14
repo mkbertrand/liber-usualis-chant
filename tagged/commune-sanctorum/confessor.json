@@ -1,5 +1,13 @@
 [
   {
+    "tags":["confessor","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2080",
+		"antiphona-ii":"/gregobase/antiphonae/2179",
+		"antiphona-iii":"/gregobase/antiphonae/2570",
+		"antiphona-iv":"/gregobase/antiphonae/2182",
+		"antiphona-v":"/gregobase/antiphonae/2677"
+  },
+  {
 		"tags":[
 			["confessor","vesperae","hymnus"],
 			["confessor","matutinum","hymnus"]
@@ -7,7 +15,47 @@
 		"datum":"/gregobase/hymni/2407"
   },
   {
+		"tags":["confessor","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2586"
+  },
+  {
+		"tags":["confessor","matutinum","antiphona","antiphona-invitatorium"],
+		"simplex":"/nocturnale/COPOIa",
+		"datum":"/nocturnale/COPOIb",
+		"sollemnitas":"/nocturnale/COPOIc",
+		"in-tempore-paschali":"/nocturnale/COPOId"
+  },
+  {
+		"tags":["confessor","matutinum","nocturna-i","antiphona"],
+		"antiphona-i":"/nocturnale/COPONA1A1",
+		"in-tempore-paschali":"/nocturnale/COPONA1A1",
+		"antiphona-ii":"/nocturnale/COPONA1A2",
+		"antiphona-iii":"/nocturnale/COPONA1A3"
+  },
+  {
+		"tags":["confessor","matutinum","nocturna-ii","antiphona"],
+		"antiphona-i":"/nocturnale/COPON2A1",
+		"in-tempore-paschali":"/nocturnale/COPON2A1",
+		"antiphona-ii":"/nocturnale/COPON2A2",
+		"antiphona-iii":"/nocturnale/COPON2A3"
+  },
+  {
+		"tags":["confessor","matutinum","nocturna-iii","antiphona"],
+		"antiphona-i":"/nocturnale/COPON3A1",
+		"in-tempore-paschali":"/nocturnale/COPON3A1",
+		"antiphona-ii":"/nocturnale/COPON3A2",
+		"antiphona-iii":"/nocturnale/COPON3A3"
+  },
+  {
 		"tags":["confessor","laudes","hymnus"],
 		"datum":"/gregobase/hymni/17926"
+  },
+  {
+		"tags":["confessor","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/2808"
+  },
+  {
+		"tags":["confessor","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2251"
   }
 ]

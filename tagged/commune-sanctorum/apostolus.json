@@ -28,6 +28,37 @@
 		"datum":"/nocturnale/APEXIb"
   },
   {
+		"tags":["apostolus","matutinum","nocturna-i","antiphona"],
+		"antiphona-i":"/nocturnale/APEXN1A1",
+		"antiphona-ii":"/nocturnale/APEXN1A2",
+		"antiphona-iii":"/nocturnale/APEXN1A3"
+  },
+  {
+		"tags":["apostolus","matutinum","nocturna-ii","antiphona"],
+		"antiphona-i":"/nocturnale/APEXN2A1",
+		"antiphona-ii":"/nocturnale/APEXN2A2",
+		"antiphona-iii":"/nocturnale/APEXN2A3"
+  },
+  {
+		"tags":["apostolus","matutinum","nocturna-iii","antiphona"],
+		"antiphona-i":"/nocturnale/APEXN3A1",
+		"antiphona-ii":"/nocturnale/APEXN3Aa",
+		"antiphona-iii":"/nocturnale/APEXN3A3"
+  },
+  {
+		"tags":["apostolus","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/12597"
+  },
+  {
+		"tags":["apostolus","ii-vesperae","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/1973",
+		"antiphona-ii":"/gregobase/antiphonae/2751",
+		"antiphona-iii":"/gregobase/antiphonae/1861",
+		"antiphona-iv":"/gregobase/antiphonae/2337",
+		"antiphona-v":"/gregobase/antiphonae/2079",
+		"antiphona-magnificat":"/gregobase/antiphonae/1915"
+  },
+  {
 		"tags":[
 			["apostolorum-tempore-paschali","vesperae","hymnus"],
 			["apostolorum-tempore-paschali","matutinum","hymnus"]

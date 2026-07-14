@@ -6,6 +6,15 @@
 		],
 		"datum":"mode:8;%%(c4) Te(h) lu(j')cis(j) an(j)te(j) tér(k')mi(j)num,(i) (,) Re(h)rum(h') Cre(h)á(h)tor,(h) pó(i')sci(h)mus,(g.) (;) Ut(i) pro(h') tu(g)a(g) cle(f)mén(g')ti(h)a,(h) (,) Sis(j) prae(j')sul(j) et(j) cu(h)stó(i')di(h)a.(g.) (::)"
 	},
+  {
+		"tags":["completorium","antiphona"],
+		"datum":"/gregobase/antiphonae/1896",
+		"in-tempore-paschali":"/gregobase/antiphonae/1942"
+  },
+  {
+		"tags":["completorium","antiphona","antiphona-nunc-dimittis"],
+		"datum":"/gregobase/antiphonae/2924"
+  },
 	{
 		"tags":[
 			["completorium","duplex-minus","hymnus"],

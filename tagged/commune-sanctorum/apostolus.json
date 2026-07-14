@@ -66,6 +66,10 @@
 		"datum":"/gregobase/hymni/2295"
   },
   {
+		"tags":["apostolorum-tempore-paschali","matutinum","antiphona","antiphona-invitatorium"],
+		"datum":"/nocturnale/APTPI"
+  },
+  {
 		"tags":["apostolorum-tempore-paschali","laudes","hymnus"],
 		"datum":"/gregobase/hymni/11809"
   }

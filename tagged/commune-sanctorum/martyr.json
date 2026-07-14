@@ -1,10 +1,28 @@
 [
   {
+		"tags":["martyr","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/1854",
+		"antiphona-ii":"/gregobase/antiphonae/12251",
+		"antiphona-iii":"/gregobase/antiphonae/2805",
+		"antiphona-iv":"/gregobase/antiphonae/2466",
+		"antiphona-v":"/gregobase/antiphonae/2671"
+  }
+  {
 		"tags":[
 			["martyr","vesperae","hymnus"],
 			["martyr","matutinum","hymnus"]
 		],
 		"datum":"/gregobase/hymni/2702"
+  },
+  {
+		"tags":["martyr","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2340"
+  },
+  {
+		"tags":["martyr","matutinum","antiphona","antiphona-invitatorium"],
+		"simplex":"/nocturnale/UMEXIa",
+		"datum":"/nocturnale/UMEXIb",
+		"solemnis":"/nocturnale/UMEXIc"
   },
   {
 		"tags":["martyr","laudes","hymnus"],

@@ -7,10 +7,10 @@
   },
   {
 		"tags":["laudes","in-tempore-paschali","temporale","antiphona"],
-		"antiphona-i":"fcc/lapxf1a1",
-		"antiphona-ii":"fcc/lapxf1a2",
-		"antiphona-iii":"fcc/lapxf1a3"
-  }
+		"antiphona-i":"/fcc/lapxf1a1",
+		"antiphona-ii":"/fcc/lapxf1a2",
+		"antiphona-iii":"/fcc/lapxf1a3"
+  },
   {
 		"tags":[
 			["laudes","dominica","hymnus"],
@@ -37,5 +37,9 @@
 		"feria-v":"/gregobase/hymni/12882",
 		"feria-vi":"/gregobase/hymni/13176",
 		"sabbatum":"/gregobase/hymni/12329"
+  },
+  {
+    "tags":["laudes","feria","feria-ii","antiphona"],
+		"antiphona-i":"/fcc/lapaf2a1"
   }
 ]

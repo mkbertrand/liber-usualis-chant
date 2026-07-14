@@ -7,9 +7,12 @@
 		"datum":"mode:6;%%(c4) Jam(f) lu(f')cis(f) or(f)to(f) sí(g')de(f)re(f) (,) De(f)um(f') pre(f)cé(f)mur(e) súp(g')pli(g)ces,(h.) (;) Ut(h) in(h') di(h)úr(g)nis(f) á(g')cti(f)bus(f) (,) Nos(f) ser(f')vet(f) a(f) no(f)cén(g')ti(f)bus.(f.) (::)"
 	},
   {
-		"tags":["prima","antiphona"],
-		"dominica":"/gregobase/antiphonae/19869",
-		"feria":"/gregobase/antiphonae/11135"
+		"tags":["prima","dominica","per-annum","antiphona"],
+		"datum":"/gregobase/antiphonae/19869"
+  },
+  {
+		"tags":["prima","feria","antiphona"],
+		"datum":"/gregobase/antiphonae/11135"
   },
   {
 		"tags":["prima","feria","antiphona"],

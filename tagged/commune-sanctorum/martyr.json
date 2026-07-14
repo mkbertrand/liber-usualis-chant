@@ -55,6 +55,14 @@
 		"datum":"/gregobase/antiphonae/2879"
   },
   {
+		"tags":["martyrum-tempore-paschali","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/1923",
+		"antiphona-ii":"/gregobase/antiphonae/2105",
+		"antiphona-iii":"/gregobase/antiphonae/2788",
+		"antiphona-iv":"/gregobase/antiphonae/2943",
+		"antiphona-v":"/gregobase/antiphonae/2720"
+  },
+  {
 		"tags":[
 			["martyrum-tempore-paschali","martyres","vesperae","hymnus"],
 			["martyrum-tempore-paschali","martyres","laudes","hymnus"]
@@ -62,7 +70,31 @@
 		"datum":"/gregobase/hymni/13113"
   },
   {
+		"tags":["martyrum-tempore-paschali","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2510"
+  },
+  {
 		"tags":["martyrum-tempore-paschali","martyres","matutinum","hymnus"],
     "datum":"/nocturnale/EXPMEXH_dcrochu"
+  },
+  {
+		"tags":["martyrum-tempore-paschali","matutinum","nocturna-i","antiphona"],
+		"datum":"/nocturnale/APTPN1A"
+  },
+  {
+		"tags":["martyrum-tempore-paschali","matutinum","nocturna-ii","antiphona"],
+		"datum":"/nocturnale/APTPN2A"
+  },
+  {
+		"tags":["martyrum-tempore-paschali","matutinum","nocturna-iii","antiphona"],
+		"datum":"/nocturnale/APTPN3A"
+  },
+  {
+		"tags":["martyrum-tempore-paschali","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/2680"
+  },
+  {
+		"tags":["martyrum-tempore-paschali","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2831"
   }
 ]

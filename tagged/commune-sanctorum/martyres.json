@@ -36,6 +36,10 @@
     "antiphona-iii":"/nocturnale/PMEXN3A3"
   },
   {
+		"tags":["martyres","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/2177"
+  },
+  {
     "tags":["martyres","ii-vesperae","antiphona"],
     "antiphona-i":"/gregobase/antiphonae/2186",
     "antiphona-ii":"/gregobase/antiphonae/2482",

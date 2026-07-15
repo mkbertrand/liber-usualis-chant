@@ -1,0 +1,18 @@
+[
+  {
+		"tags":["vigilia-nativitatis","matutinum","antiphona","antiphona-invitatorium"],
+    "datum":"/nocturnale/1224I_marteo"
+  },
+  {
+		"tags":["vigilia-nativitatis","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2256",
+		"antiphona-ii":"/gregobase/antiphonae/2345",
+		"antiphona-iii":"/gregobase/antiphonae/2461",
+		"antiphona-iv":"/gregobase/antiphonae/2837",
+		"antiphona-v":"/gregobase/antiphonae/2081"
+  },
+  {
+		"tags":["vigilia-nativitatis","laudes","antiphona","antiphona-benedictus"],
+    "datum":"/gregobase/antiphonae/11917"
+  }
+]

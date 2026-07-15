@@ -12,6 +12,10 @@
 		"datum":"/gregobase/antiphonae/14963"
   },
   {
+		"tags":["bmv-sabbatum","matutinum","antiphona","antiphona-invitatorium"],
+    "datum":"/nocturnale/CSMSI"
+  },
+  {
 		"tags":["bmv-sabbatum","laudes","antiphona","antiphona-benedictus"],
 		"datum":"/gregobase/antiphonae/19326"
   }

@@ -30,8 +30,8 @@
 		"antiphona-v":"/gregobase/antiphonae/2171"
   },
   {
-		"tags":["pascha","antiphona","haec-dies"],
-		"src":"/gregobase/etc/2230"
+		"tags":["antiphona","haec-dies"],
+		"datum":"/gregobase/etc/2230"
   },
   {
 		"tags":["pascha","dominica","laudes","antiphona","antiphona-benedictus"],

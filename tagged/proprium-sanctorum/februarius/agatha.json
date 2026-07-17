@@ -1,7 +1,7 @@
 [
   {
 		"tags":["agatha","vesperae","antiphona","antiphona-magnificat"],
-		"datum":"gregobase/2462"
+		"datum":"/gregobase/antiphonae/2462"
   },
   {
 		"tags":["agatha","matutinum","nocturna-i","antiphona"],
@@ -23,14 +23,14 @@
   },
   {
 		"tags":["agatha","antiphona"],
-		"antiphona-i":"gregobase/2425",
-		"antiphona-ii":"gregobase/1955",
-		"antiphona-iii":"gregobase/2318",
-		"antiphona-iv":"gregobase/13323",
-		"antiphona-v":"gregobase/2530"
+		"antiphona-i":"/gregobase/antiphonae/2425",
+		"antiphona-ii":"/gregobase/antiphonae/1955",
+		"antiphona-iii":"/gregobase/antiphonae/2318",
+		"antiphona-iv":"/gregobase/antiphonae/13323",
+		"antiphona-v":"/gregobase/antiphonae/2530"
   },
   {
 		"tags":["agatha","laudes","antiphona","antiphona-benedictus"],
-		"datum":"gregobase/12170"
+		"datum":"/gregobase/antiphonae/12170"
   }
 ]

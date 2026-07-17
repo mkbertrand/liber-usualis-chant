@@ -19,7 +19,7 @@
 		"antiphona-invitatorium":"/nocturnale/P0I",
 		"antiphon-i":"/nocturnale/P0A1",
 		"antiphona-ii":"/nocturnale/P0A2",
-		"antiphona-iii":"nocturnale/P0A3"
+		"antiphona-iii":"/nocturnale/P0A3"
   },
   {
 		"tags":["pascha","antiphona"],
@@ -30,7 +30,7 @@
 		"antiphona-v":"/gregobase/antiphonae/2171"
   },
   {
-		"tags":["antiphona","haec-dies"],
+		"tags":["pascha","antiphona","haec-dies"],
 		"src":"/gregobase/etc/2230"
   },
   {

@@ -17,29 +17,29 @@
   },
   {
 		"tags":["pretiosissimus-sanguis","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0707I"
+		"datum":"/nocturnale/0701I"
   },
   {
 		"tags":["pretiosissimus-sanguis","hymnus"],
-		"matutinum":"/nocturnale/0707H"
+		"matutinum":"/nocturnale/0701H"
   },
   {
 		"tags":["pretiosissimus-sanguis","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0707N1A1",
-		"antiphona-ii":"/nocturnale/0707N1A2",
-		"antiphona-iii":"/nocturnale/0707N1A3"
+		"antiphona-i":"/nocturnale/0701N1A1",
+		"antiphona-ii":"/nocturnale/0701N1A2",
+		"antiphona-iii":"/nocturnale/0701N1A3"
   },
   {
 		"tags":["pretiosissimus-sanguis","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0707N2A1",
-		"antiphona-ii":"/nocturnale/0707N2A2",
-		"antiphona-iii":"/nocturnale/0707N2A3"
+		"antiphona-i":"/nocturnale/0701N2A1",
+		"antiphona-ii":"/nocturnale/0701N2A2",
+		"antiphona-iii":"/nocturnale/0701N2A3"
   },
   {
 		"tags":["pretiosissimus-sanguis","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0707N3A1",
-		"antiphona-ii":"/nocturnale/0707N3A2",
-		"antiphona-iii":"/nocturnale/0707N3A3"
+		"antiphona-i":"/nocturnale/0701N3A1",
+		"antiphona-ii":"/nocturnale/0701N3A2",
+		"antiphona-iii":"/nocturnale/0701N3A3"
   },
   {
 		"tags":["pretiosissimus-sanguis","antiphona"],

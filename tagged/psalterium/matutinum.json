@@ -3,12 +3,12 @@
 		"tags":["matutinum","dominica","antiphona","antiphona-invitatorium"],
 		"datum":"/nocturnale/EXF1I",
 		"in-tempore-quadragesimae":"/nocturnale/Q1I",
-		"in-tempore-paschali":"nocturnale/P0I"
+		"in-tempore-paschali":"/nocturnale/P0I"
   },
   {
 		"tags":["matutinum","in-tempore-passionis","temporale","antiphona","antiphona-invitatorium"],
 		"datum":"/nocturnale/Q5I"
-  }
+  },
   {
 		"tags":["matutinum","dominica","hymnus"],
     "datum":"/nocturnale/EXF1Hw_dcrochu",

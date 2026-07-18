@@ -1,0 +1,22 @@
+[
+  {
+		"tags":["joannes-paulus","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2220"
+  },
+  {
+		"tags":["joannes-paulus","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2472",
+		"antiphona-ii":"/gregobase/antiphonae/2523",
+		"antiphona-iii":"/gregobase/antiphonae/2280",
+		"antiphona-iv":"/gregobase/antiphonae/2649",
+		"antiphona-v":"/gregobase/antiphonae/2364"
+  },
+  {
+		"tags":["joannes-paulus","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/19960"
+  },
+  {
+		"tags":["joannes-paulus","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2890"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+		"tags":["lucia","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2738",
+		"antiphona-ii":"/gregobase/antiphonae/2240",
+		"antiphona-iii":"/gregobase/antiphonae/1926",
+		"antiphona-iv":"/gregobase/antiphonae/2039",
+		"antiphona-v":"/gregobase/antiphonae/2704"
+  },
+  {
+		"tags":["lucia","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/1987"
+  },
+  {
+		"tags":["lucia","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/13242"
+  },
+  {
+		"tags":["lucia","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2757"
+  }
+]

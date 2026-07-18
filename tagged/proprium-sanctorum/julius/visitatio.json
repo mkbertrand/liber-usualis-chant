@@ -1,0 +1,26 @@
+[
+  {
+		"tags":["visitatio","antiphona"],
+		"antiphona-i":"/gregobase/antiphonae/2841",
+		"antiphona-ii":"/gregobase/antiphonae/1994",
+		"antiphona-iii":"/gregobase/antiphonae/2845",
+		"antiphona-iv":"/gregobase/antiphonae/1840",
+		"antiphona-v":"/gregobase/antiphonae/1975"
+  },
+  {
+		"tags":["visitatio","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2469"
+  },
+  {
+		"tags":["visitatio","matutinum","antiphona","antiphona-invitatorium"],
+		"datum":"/nocturnale/0702I"
+  },
+  {
+		"tags":["visitatio","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/12507"
+  },
+  {
+		"tags":["visitatio","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2350"
+  }
+]

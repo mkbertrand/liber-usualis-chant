@@ -1,0 +1,36 @@
+[
+  {
+		"tags":["elisabeth-portugalliae","antiphona"],
+		"antiphona-ii":"/gregobase/antiphonae/19994",
+		"antiphona-iii":"/gregobase/antiphonae/19995",
+		"antiphona-iv":"/gregobase/antiphonae/19996",
+		"antiphona-v":"/gregobase/antiphonae/19997"
+  },
+  {
+		"tags":[
+			["elisabeth-portugalliae","vesperae","hymnus"],
+			["elisabeth-portugalliae","matutinum","hymnus"]
+		],
+		"datum":"/gregobase/hymni/12024"
+  },
+  {
+		"tags":["elisabeth-portugalliae","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/1874"
+  },
+  {
+		"tags":["elisabeth-portugalliae","matutinum","antiphona","antiphona-invitatorium"],
+    "datum":"/nocturnale/0708I"
+  },
+  {
+		"tags":["elisabeth-portugalliae","laudes","hymnus"],
+		"datum":"/gregobase/hymni/13218"
+  },
+  {
+		"tags":["elisabeth-portugalliae","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/13105"
+  },
+  {
+		"tags":["elisabeth-portugalliae","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/2001"
+  }
+]

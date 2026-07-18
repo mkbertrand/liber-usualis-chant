@@ -1,0 +1,27 @@
+[
+  {
+		"tags":["maria-magdalena-poenitens","hymnus"],
+		"vesperae":"/gregobase/hymni/1841"
+  },
+  {
+		"tags":["maria-magdalena-poenitens","i-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/20000"
+  },
+  {
+		"tags":["maria-magdalena-poenitens","matutinum","antiphona","antiphona-invitatorium"],
+		"datum":"/nocturnale/0722I"
+  },
+  {
+		"tags":["maria-magdalena-poenitens","hymnus"],
+		"matutinum":"/gregobase/hymni/17418",
+		"laudes":"/gregobase/hymni/13257"
+  },
+  {
+		"tags":["maria-magdalena-poenitens","laudes","antiphona","antiphona-benedictus"],
+		"datum":"/gregobase/antiphonae/19998"
+  },
+  {
+		"tags":["maria-magdalena-poenitens","ii-vesperae","antiphona","antiphona-magnificat"],
+		"datum":"/gregobase/antiphonae/19999"
+  }
+]

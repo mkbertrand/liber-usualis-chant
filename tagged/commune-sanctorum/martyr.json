@@ -20,27 +20,27 @@
   },
   {
 		"tags":["martyr","matutinum","antiphona","antiphona-invitatorium"],
-		"simplex":"/nocturnale/UMEXIa",
-		"datum":"/nocturnale/UMEXIb",
-		"solemnis":"/nocturnale/UMEXIc"
+		"simplex":[["/invitatoria/UMEXIa"]],
+		"datum":[["/invitatoria/UMEXIb"]],
+		"solemnis":[["/invitatoria/UMEXIc"]]
   },
   {
 		"tags":["martyr","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/UMEXN1A1",
-		"antiphona-ii":"/nocturnale/UMEXN1A2",
-		"antiphona-iii":"/nocturnale/UMEXN1A3"
+		"antiphona-i":[["/antiphonae/UMEXN1A1"]],
+		"antiphona-ii":[["/antiphonae/UMEXN1A2"]],
+		"antiphona-iii":[["/antiphonae/UMEXN1A3"]]
   },
   {
 		"tags":["martyr","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/UMEXN2A1",
-		"antiphona-ii":"/nocturnale/UMEXN2A2",
-		"antiphona-iii":"/nocturnale/UMEXN2A3"
+		"antiphona-i":[["/antiphonae/UMEXN2A1"]],
+		"antiphona-ii":[["/antiphonae/UMEXN2A2"]],
+		"antiphona-iii":[["/antiphonae/UMEXN2A3"]]
   },
   {
 		"tags":["martyr","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/UMEXN3A1",
-		"antiphona-ii":"/nocturnale/UMEXN3A2",
-		"antiphona-iii":"/nocturnale/UMEXN3A3"
+		"antiphona-i":[["/antiphonae/UMEXN3A1"]],
+		"antiphona-ii":[["/antiphonae/UMEXN3A2"]],
+		"antiphona-iii":[["/antiphonae/UMEXN3A3"]]
   },
   {
 		"tags":["martyr","laudes","hymnus"],
@@ -75,23 +75,23 @@
   },
   {
 		"tags":["martyrum-tempore-paschali","matutinum","antiphona","antiphona-invitatorium"],
-    "datum":"/nocturnale/MRTPI"
+    "datum":[["/invitatoria/MRTPI"]]
   },
   {
 		"tags":["martyrum-tempore-paschali","martyres","matutinum","hymnus"],
-    "datum":"/nocturnale/EXPMEXH_dcrochu"
+    "datum":[["/hymni/EXPMEXH_dcrochu"]]
   },
   {
 		"tags":["martyrum-tempore-paschali","matutinum","nocturna-i","antiphona"],
-		"datum":"/nocturnale/APTPN1A"
+		"datum":[["/antiphonae/APTPN1A"]]
   },
   {
 		"tags":["martyrum-tempore-paschali","matutinum","nocturna-ii","antiphona"],
-		"datum":"/nocturnale/APTPN2A"
+		"datum":[["/antiphonae/APTPN2A"]]
   },
   {
 		"tags":["martyrum-tempore-paschali","matutinum","nocturna-iii","antiphona"],
-		"datum":"/nocturnale/APTPN3A"
+		"datum":[["/antiphonae/APTPN3A"]]
   },
   {
 		"tags":["martyrum-tempore-paschali","laudes","antiphona","antiphona-benedictus"],

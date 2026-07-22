@@ -10,7 +10,7 @@
   {
 		"tags":["corpus-christi","hymnus"],
 		"vesperae":[["/hymni/1310"]],
-    "matutinum":"/nocturnale/H1F5H_marteo",
+    "matutinum":[["/hymni/H1F5H"]],
 		"laudes":[["/hymni/12107"]]
   },
   {
@@ -19,25 +19,25 @@
   },
   {
 		"tags":["corpus-christi","antiphona","antiphona-invitatorium"],
-    "datum":"/nocturnale/H1F5I_marteo"
+    "datum":[["/invitatoria/H1F5I"]]
   },
   {
 		"tags":["corpus-christi","matutinum","nocturna-i","antiphona"],
-    "antiphona-i":"/nocturnale/H1F5N1A1",
-    "antiphona-ii":"/nocturnale/H1F5N1A2",
-    "antiphona-iii":"/nocturnale/H1F5N1A3"
+    "antiphona-i":[["/antiphonae/H1F5N1A1"]],
+    "antiphona-ii":[["/antiphonae/H1F5N1A2"]],
+    "antiphona-iii":[["/antiphonae/H1F5N1A3"]]
   },
   {
 		"tags":["corpus-christi","matutinum","nocturna-ii","antiphona"],
-    "antiphona-i":"/nocturnale/H1F5N2A1",
-    "antiphona-ii":"/nocturnale/H1F5N2A2",
-    "antiphona-iii":"/nocturnale/H1F5N2A3"
+    "antiphona-i":[["/antiphonae/H1F5N2A1"]],
+    "antiphona-ii":[["/antiphonae/H1F5N2A2"]],
+    "antiphona-iii":[["/antiphonae/H1F5N2A3"]]
   },
   {
 		"tags":["corpus-christi","matutinum","nocturna-iii","antiphona"],
-    "antiphona-i":"/nocturnale/H1F5N3A1",
-    "antiphona-ii":"/nocturnale/H1F5N3A2",
-    "antiphona-iii":"/nocturnale/H1F5N3A3"
+    "antiphona-i":[["/antiphonae/H1F5N3A1"]],
+    "antiphona-ii":[["/antiphonae/H1F5N3A2"]],
+    "antiphona-iii":[["/antiphonae/H1F5N3A3"]]
   },
   {
 		"tags":["corpus-christi","antiphona"],

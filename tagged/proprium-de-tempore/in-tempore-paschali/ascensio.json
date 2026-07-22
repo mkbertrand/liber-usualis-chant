@@ -20,29 +20,29 @@
   },
   {
 		"tags":["ascensio","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/P5F5I"
+		"datum":[["/invitatoria/P5F5I"]]
   },
   {
 		"tags":["ascensio","matutinum","hymnus"],
-		"datum":"/nocturnale/P5F5H"
+		"datum":[["/hymni/P5F5H"]]
   },
   {
 		"tags":["ascensio","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/P5F5N1A1",
-		"antiphona-ii":"/nocturnale/P5F5N1A2",
-		"antiphona-iii":"/nocturnale/P5F5N1A3"
+		"antiphona-i":[["/antiphonae/P5F5N1A1"]],
+		"antiphona-ii":[["/antiphonae/P5F5N1A2"]],
+		"antiphona-iii":[["/antiphonae/P5F5N1A3"]]
   },
   {
 		"tags":["ascensio","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/P5F5N2A1",
-		"antiphona-ii":"/nocturnale/P5F5N2A2",
-		"antiphona-iii":"/nocturnale/P5F5N2A3"
+		"antiphona-i":[["/antiphonae/P5F5N2A1"]],
+		"antiphona-ii":[["/antiphonae/P5F5N2A2"]],
+		"antiphona-iii":[["/antiphonae/P5F5N2A3"]]
   },
   {
 		"tags":["ascensio","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/P5F5N3A1",
-		"antiphona-ii":"/nocturnale/P5F5N3A2",
-		"antiphona-iii":"/nocturnale/P5F5N3A3"
+		"antiphona-i":[["/antiphonae/P5F5N3A1"]],
+		"antiphona-ii":[["/antiphonae/P5F5N3A2"]],
+		"antiphona-iii":[["/antiphonae/P5F5N3A3"]]
   },
   {
 		"tags":["ascensio","laudes","antiphona","antiphona-benedictus"],

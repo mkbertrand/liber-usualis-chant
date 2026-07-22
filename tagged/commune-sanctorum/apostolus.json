@@ -8,7 +8,7 @@
   },
   {
 		"tags":["apostolus","matutinum","hymnus"],
-		"datum":"/nocturnale/EXAPEXH_dcrochu"
+		"datum":[["/hymni/EXAPEXH_dcrochu"]]
   },
   {
 		"tags":["apostolus","antiphona"],
@@ -24,26 +24,26 @@
   },
   {
 		"tags":["apostolus","matutinum","antiphona","antiphona-invitatorium"],
-		"sollemnitas":"/nocturnale/APEXIa",
-		"datum":"/nocturnale/APEXIb"
+		"sollemnitas":[["/invitatoria/APEXIa"]],
+		"datum":[["/invitatoria/APEXIb"]]
   },
   {
 		"tags":["apostolus","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/APEXN1A1",
-		"antiphona-ii":"/nocturnale/APEXN1A2",
-		"antiphona-iii":"/nocturnale/APEXN1A3"
+		"antiphona-i":[["/antiphonae/APEXN1A1"]],
+		"antiphona-ii":[["/antiphonae/APEXN1A2"]],
+		"antiphona-iii":[["/antiphonae/APEXN1A3"]]
   },
   {
 		"tags":["apostolus","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/APEXN2A1",
-		"antiphona-ii":"/nocturnale/APEXN2A2",
-		"antiphona-iii":"/nocturnale/APEXN2A3"
+		"antiphona-i":[["/antiphonae/APEXN2A1"]],
+		"antiphona-ii":[["/antiphonae/APEXN2A2"]],
+		"antiphona-iii":[["/antiphonae/APEXN2A3"]]
   },
   {
 		"tags":["apostolus","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/APEXN3A1",
-		"antiphona-ii":"/nocturnale/APEXN3A2",
-		"antiphona-iii":"/nocturnale/APEXN3A3"
+		"antiphona-i":[["/antiphonae/APEXN3A1"]],
+		"antiphona-ii":[["/antiphonae/APEXN3A2"]],
+		"antiphona-iii":[["/antiphonae/APEXN3A3"]]
   },
   {
 		"tags":["apostolus","laudes","antiphona","antiphona-benedictus"],
@@ -67,7 +67,7 @@
   },
   {
 		"tags":["apostolorum-tempore-paschali","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/APTPI"
+		"datum":[["/invitatoria/APTPI"]]
   },
   {
 		"tags":["apostolorum-tempore-paschali","laudes","hymnus"],

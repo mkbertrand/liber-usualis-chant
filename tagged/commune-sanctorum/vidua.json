@@ -17,33 +17,33 @@
   },
   {
 		"tags":["vidua","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/MUNXIa",
-		"viduae":"/nocturnale/MUNXIb"
+		"datum":[["/invitatoria/MUNXIa"]],
+		"viduae":[["/invitatoria/MUNXIb"]]
   },
   {
 		"tags":["vidua","matutinum","hymnus"],
-		"datum":"/nocturnale/MUVMHb"
+		"datum":[["/hymni/MUVMHb"]]
   },
   {
 		"tags":["vidua","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/MUXXN1A1",
-		"in-tempore-paschali":"/nocturnale/MUXXN1A1",
-		"antiphona-ii":"/nocturnale/MUNXN1A2",
-		"antiphona-iii":"/nocturnale/MUXXN1A3"
+		"antiphona-i":[["/antiphonae/MUXXN1A1"]],
+		"in-tempore-paschali":[["/antiphonae/MUXXN1A1"]],
+		"antiphona-ii":[["/antiphonae/MUNXN1A2"]],
+		"antiphona-iii":[["/antiphonae/MUXXN1A3"]]
   },
   {
 		"tags":["vidua","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/MUXXN2A1",
-		"in-tempore-paschali":"/nocturnale/MUXXN2A1",
-		"antiphona-ii":"/nocturnale/MUXXN2A2",
-		"antiphona-iii":"/nocturnale/MUXXN2A3"
+		"antiphona-i":[["/antiphonae/MUXXN2A1"]],
+		"in-tempore-paschali":[["/antiphonae/MUXXN2A1"]],
+		"antiphona-ii":[["/antiphonae/MUXXN2A2"]],
+		"antiphona-iii":[["/antiphonae/MUXXN2A3"]]
   },
   {
 		"tags":["vidua","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/MUXXN3A1",
-		"in-tempore-paschali":"/nocturnale/MUXXN3A1",
-		"antiphona-ii":"/nocturnale/MUXXN3A2",
-		"antiphona-iii":"/nocturnale/MUXXN3A3"
+		"antiphona-i":[["/antiphonae/MUXXN3A1"]],
+		"in-tempore-paschali":[["/antiphonae/MUXXN3A1"]],
+		"antiphona-ii":[["/antiphonae/MUXXN3A2"]],
+		"antiphona-iii":[["/antiphonae/MUXXN3A3"]]
   },
   {
 		"tags":["vidua","laudes","antiphona","antiphona-benedictus"],

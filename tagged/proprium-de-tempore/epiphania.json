@@ -20,29 +20,29 @@
   },
   {
 		"tags":["epiphania","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0106I"
+		"datum":[["/invitatoria/0106I"]]
   },
   {
 		"tags":["epiphania","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0106N1A1",
-		"antiphona-ii":"/nocturnale/0106N1A2",
-		"antiphona-iii":"/nocturnale/0106N1A3"
+		"antiphona-i":[["/antiphonae/0106N1A1"]],
+		"antiphona-ii":[["/antiphonae/0106N1A2"]],
+		"antiphona-iii":[["/antiphonae/0106N1A3"]]
   },
   {
 		"tags":["epiphania","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0106N2A1",
-		"antiphona-ii":"/nocturnale/0106N2A2",
-		"antiphona-iii":"/nocturnale/0106N2A3"
+		"antiphona-i":[["/antiphonae/0106N2A1"]],
+		"antiphona-ii":[["/antiphonae/0106N2A2"]],
+		"antiphona-iii":[["/antiphonae/0106N2A3"]]
   },
   {
 		"tags":["epiphania","festum","matutinum","nocturna-iii","antiphona","antiphona-i"],
-		"datum":"/nocturnale/0106N3A1"
+		"datum":[["/antiphonae/0106N3A1"]]
   },
   {
 		"tags":["epiphania","matutinum","nocturna-iii","antiphona"],
-    "antiphona-i":"/nocturnale/0101N2A2",
-		"antiphona-ii":"/nocturnale/0106N3A2",
-		"antiphona-iii":"/nocturnale/0106N3A3"
+    "antiphona-i":[["/antiphonae/0101N2A2"]],
+		"antiphona-ii":[["/antiphonae/0106N3A2"]],
+		"antiphona-iii":[["/antiphonae/0106N3A3"]]
   },
   {
 		"tags":["epiphania","laudes","hymnus"],

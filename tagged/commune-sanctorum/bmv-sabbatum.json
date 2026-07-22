@@ -13,7 +13,7 @@
   },
   {
 		"tags":["bmv-sabbatum","matutinum","antiphona","antiphona-invitatorium"],
-    "datum":"/nocturnale/CSMSI"
+    "datum":[["/invitatoria/CSMSI"]]
   },
   {
 		"tags":["bmv-sabbatum","laudes","antiphona","antiphona-benedictus"],

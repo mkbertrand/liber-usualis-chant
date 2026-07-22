@@ -20,24 +20,24 @@
   },
   {
 		"tags":["transfiguratio","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0806I"
+		"datum":[["/invitatoria/0806I"]]
   },
   {
 		"tags":["transfiguratio","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0806N1A1",
-		"antiphona-ii":"/nocturnale/0806N1A2"
+		"antiphona-i":[["/antiphonae/0806N1A1"]],
+		"antiphona-ii":[["/antiphonae/0806N1A2"]]
   },
   {
 		"tags":["transfiguratio","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0806N2A1",
-		"antiphona-ii":"/nocturnale/0806N2A2",
-		"antiphona-iii":"/nocturnale/0806N2A3"
+		"antiphona-i":[["/antiphonae/0806N2A1"]],
+		"antiphona-ii":[["/antiphonae/0806N2A2"]],
+		"antiphona-iii":[["/antiphonae/0806N2A3"]]
   },
   {
 		"tags":["transfiguratio","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0806N3A1",
-		"antiphona-ii":"/nocturnale/0806N3A2",
-		"antiphona-iii":"/nocturnale/0806N3A3"
+		"antiphona-i":[["/antiphonae/0806N3A1"]],
+		"antiphona-ii":[["/antiphonae/0806N3A2"]],
+		"antiphona-iii":[["/antiphonae/0806N3A3"]]
   },
   {
 		"tags":["transfiguratio","laudes","hymnus"],

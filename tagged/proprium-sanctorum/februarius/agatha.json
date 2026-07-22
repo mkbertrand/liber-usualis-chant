@@ -5,21 +5,21 @@
   },
   {
 		"tags":["agatha","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0205N1A1",
-		"antiphona-ii":"/nocturnale/0205N1A2",
-		"antiphona-iii":"/nocturnale/0205N1A3"
+		"antiphona-i":[["/antiphonae/0205N1A1"]],
+		"antiphona-ii":[["/antiphonae/0205N1A2"]],
+		"antiphona-iii":[["/antiphonae/0205N1A3"]]
   },
   {
 		"tags":["agatha","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0205N2A1",
-		"antiphona-ii":"/nocturnale/0205N2A2",
-		"antiphona-iii":"/nocturnale/0205N2A3"
+		"antiphona-i":[["/antiphonae/0205N2A1"]],
+		"antiphona-ii":[["/antiphonae/0205N2A2"]],
+		"antiphona-iii":[["/antiphonae/0205N2A3"]]
   },
   {
 		"tags":["agatha","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0205N3A1",
-		"antiphona-ii":"/nocturnale/0205N3A2",
-		"antiphona-iii":"/nocturnale/0205N3A3"
+		"antiphona-i":[["/antiphonae/0205N3A1"]],
+		"antiphona-ii":[["/antiphonae/0205N3A2"]],
+		"antiphona-iii":[["/antiphonae/0205N3A3"]]
   },
   {
 		"tags":["agatha","antiphona"],

@@ -13,25 +13,25 @@
   },
   {
 		"tags":["laurentius","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0810I"
+		"datum":[["/invitatoria/0810I"]]
   },
   {
 		"tags":["laurentius","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0810N1A1",
-		"antiphona-ii":"/nocturnale/0810N1A2",
-		"antiphona-iii":"/nocturnale/0810N1A3"
+		"antiphona-i":[["/antiphonae/0810N1A1"]],
+		"antiphona-ii":[["/antiphonae/0810N1A2"]],
+		"antiphona-iii":[["/antiphonae/0810N1A3"]]
   },
   {
 		"tags":["laurentius","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0810N2A1",
-		"antiphona-ii":"/nocturnale/0810N2A2",
-		"antiphona-iii":"/nocturnale/0810N2A3"
+		"antiphona-i":[["/antiphonae/0810N2A1"]],
+		"antiphona-ii":[["/antiphonae/0810N2A2"]],
+		"antiphona-iii":[["/antiphonae/0810N2A3"]]
   },
   {
 		"tags":["laurentius","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0810N3A1",
-		"antiphona-ii":"/nocturnale/0810N3A2",
-		"antiphona-iii":"/nocturnale/0810N3A3"
+		"antiphona-i":[["/antiphonae/0810N3A1"]],
+		"antiphona-ii":[["/antiphonae/0810N3A2"]],
+		"antiphona-iii":[["/antiphonae/0810N3A3"]]
   },
   {
 		"tags":["laurentius","laudes","antiphona","antiphona-benedictus"],

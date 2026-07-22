@@ -13,30 +13,30 @@
   },
   {
 		"tags":["trinitas","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/H1I"
+		"datum":[["/invitatoria/H1I"]]
   },
   {
 		"tags":["trinitas","hymnus"],
-		"matutinum":"/nocturnale/H1H",
+		"matutinum":[["/hymni/H1H"]],
 		"laudes":[["/hymni/2878"]]
   },
   {
 		"tags":["trinitas","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/H1N1A1",
-		"antiphona-ii":"/nocturnale/H1N1A2",
-		"antiphona-iii":"/nocturnale/H1N1A3"
+		"antiphona-i":[["/antiphonae/H1N1A1"]],
+		"antiphona-ii":[["/antiphonae/H1N1A2"]],
+		"antiphona-iii":[["/antiphonae/H1N1A3"]]
   },
   {
 		"tags":["trinitas","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/H1N2A1",
-		"antiphona-ii":"/nocturnale/H1N2A2",
-		"antiphona-iii":"/nocturnale/H1N2A3"
+		"antiphona-i":[["/antiphonae/H1N2A1"]],
+		"antiphona-ii":[["/antiphonae/H1N2A2"]],
+		"antiphona-iii":[["/antiphonae/H1N2A3"]]
   },
   {
 		"tags":["trinitas","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/H1N3A1",
-		"antiphona-ii":"/nocturnale/H1N3A2",
-		"antiphona-iii":"/nocturnale/H1N3A3"
+		"antiphona-i":[["/antiphonae/H1N3A1"]],
+		"antiphona-ii":[["/antiphonae/H1N3A2"]],
+		"antiphona-iii":[["/antiphonae/H1N3A3"]]
   },
   {
 		"tags":["trinitas","laudes","antiphona","antiphona-benedictus"],

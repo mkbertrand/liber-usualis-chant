@@ -20,28 +20,28 @@
   },
   {
 		"tags":["dedicatio","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/CDEDI"
+		"datum":[["/invitatoria/CDEDI"]]
   },
   {
 		"tags":["dedicatio","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/CDEDN1A1",
-		"in-tempore-paschali":"/nocturnale/CDEDN1A1",
-		"antiphona-ii":"/nocturnale/CDEDN1A2",
-		"antiphona-iii":"/nocturnale/CDEDN1A3"
+		"antiphona-i":[["/antiphonae/CDEDN1A1"]],
+		"in-tempore-paschali":[["/antiphonae/CDEDN1A1"]],
+		"antiphona-ii":[["/antiphonae/CDEDN1A2"]],
+		"antiphona-iii":[["/antiphonae/CDEDN1A3"]]
   },
   {
 		"tags":["dedicatio","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/CDEDN2A1",
-		"in-tempore-paschali":"/nocturnale/CDEDN2A1",
-		"antiphona-ii":"/nocturnale/CDEDN2A2",
-		"antiphona-iii":"/nocturnale/CDEDN2A3"
+		"antiphona-i":[["/antiphonae/CDEDN2A1"]],
+		"in-tempore-paschali":[["/antiphonae/CDEDN2A1"]],
+		"antiphona-ii":[["/antiphonae/CDEDN2A2"]],
+		"antiphona-iii":[["/antiphonae/CDEDN2A3"]]
   },
   {
 		"tags":["dedicatio","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/CDEDN3A1",
-		"in-tempore-paschali":"/nocturnale/CDEDN3A1",
-		"antiphona-ii":"/nocturnale/CDEDN3A2",
-		"antiphona-iii":"/nocturnale/CDEDN3A3"
+		"antiphona-i":[["/antiphonae/CDEDN3A1"]],
+		"in-tempore-paschali":[["/antiphonae/CDEDN3A1"]],
+		"antiphona-ii":[["/antiphonae/CDEDN3A2"]],
+		"antiphona-iii":[["/antiphonae/CDEDN3A3"]]
   },
   {
 		"tags":["dedicatio","laudes","hymnus"],

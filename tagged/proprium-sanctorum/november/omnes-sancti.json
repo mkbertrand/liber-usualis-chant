@@ -20,25 +20,25 @@
   },
   {
 		"tags":["omnes-sancti","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/1101I"
+		"datum":[["/invitatoria/1101I"]]
   },
   {
 		"tags":["omnes-sancti","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/1101N1A1",
-		"antiphona-ii":"/nocturnale/1101N1A2",
-		"antiphona-iii":"/nocturnale/1101N1A3"
+		"antiphona-i":[["/antiphonae/1101N1A1"]],
+		"antiphona-ii":[["/antiphonae/1101N1A2"]],
+		"antiphona-iii":[["/antiphonae/1101N1A3"]]
   },
   {
 		"tags":["omnes-sancti","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/1101N2A1",
-		"antiphona-ii":"/nocturnale/1101N2A2",
-		"antiphona-iii":"/nocturnale/1101N2A3"
+		"antiphona-i":[["/antiphonae/1101N2A1"]],
+		"antiphona-ii":[["/antiphonae/1101N2A2"]],
+		"antiphona-iii":[["/antiphonae/1101N2A3"]]
   },
   {
 		"tags":["omnes-sancti","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/1101N3A1",
-		"antiphona-ii":"/nocturnale/1101N3A2",
-		"antiphona-iii":"/nocturnale/1101N3A3"
+		"antiphona-i":[["/antiphonae/1101N3A1"]],
+		"antiphona-ii":[["/antiphonae/1101N3A2"]],
+		"antiphona-iii":[["/antiphonae/1101N3A3"]]
   },
   {
 		"tags":["omnes-sancti","laudes","hymnus"],

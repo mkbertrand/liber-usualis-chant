@@ -17,29 +17,29 @@
   },
   {
 		"tags":["nativitas-joannis-baptistae","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0624I"
+		"datum":[["/invitatoria/0624I"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","hymnus"],
-		"matutinum":"/nocturnale/0624H"
+		"matutinum":[["/hymni/0624H"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0624N1A1",
-		"antiphona-ii":"/nocturnale/0624N1A2",
-		"antiphona-iii":"/nocturnale/0624N1A3"
+		"antiphona-i":[["/antiphonae/0624N1A1"]],
+		"antiphona-ii":[["/antiphonae/0624N1A2"]],
+		"antiphona-iii":[["/antiphonae/0624N1A3"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0624N2A1",
-		"antiphona-ii":"/nocturnale/0624N2A2",
-		"antiphona-iii":"/nocturnale/0624N2A3"
+		"antiphona-i":[["/antiphonae/0624N2A1"]],
+		"antiphona-ii":[["/antiphonae/0624N2A2"]],
+		"antiphona-iii":[["/antiphonae/0624N2A3"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0624N3A1",
-		"antiphona-ii":"/nocturnale/0624N3A2",
-		"antiphona-iii":"/nocturnale/0624N3A3"
+		"antiphona-i":[["/antiphonae/0624N3A1"]],
+		"antiphona-ii":[["/antiphonae/0624N3A2"]],
+		"antiphona-iii":[["/antiphonae/0624N3A3"]]
   },
   {
 		"tags":["nativitas-joannis-baptistae","antiphona"],

@@ -20,18 +20,18 @@
   },
   {
 		"tags":["pentecostes","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/P7I"
+		"datum":[["/invitatoria/P7I"]]
   },
   {
 		"tags":["pentecostes","hymnus"],
-		"matutinum":"/nocturnale/P7H",
+		"matutinum":[["/hymni/P7H"]],
 		"laudes":[["/hymni/2926"]]
   },
   {
 		"tags":["pentecostes","matutinum","antiphona"],
-		"antiphona-i":"/nocturnale/P7A1",
-		"antiphona-ii":"/nocturnale/P7A2",
-		"antiphona-iii":"/nocturnale/P7A3"
+		"antiphona-i":[["/antiphonae/P7A1"]],
+		"antiphona-ii":[["/antiphonae/P7A2"]],
+		"antiphona-iii":[["/antiphonae/P7A3"]]
   },
   {
 		"tags":["pentecostes","festum","laudes","antiphona","antiphona-benedictus"],

@@ -13,7 +13,7 @@
   },
   {
 		"tags":["annuntiatio-bmv","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0325I"
+		"datum":[["/invitatoria/0325I"]]
   },
   {
 		"tags":["annuntiatio-bmv","laudes","antiphona","antiphona-benedictus"],

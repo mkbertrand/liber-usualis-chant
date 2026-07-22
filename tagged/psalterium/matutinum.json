@@ -1,73 +1,73 @@
 [
   {
 		"tags":["matutinum","dominica","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/EXF1I",
-		"in-tempore-quadragesimae":"/nocturnale/Q1I",
-		"in-tempore-paschali":"/nocturnale/P0I"
+		"datum":[["/invitatoria/EXF1I"]],
+		"in-tempore-quadragesimae":[["/invitatoria/Q1I"]],
+		"in-tempore-paschali":[["/invitatoria/P0I"]]
   },
   {
 		"tags":["matutinum","in-tempore-passionis","temporale","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/Q5I"
+		"datum":[["/invitatoria/Q5I"]]
   },
   {
 		"tags":["matutinum","dominica","hymnus"],
-    "datum":"/nocturnale/EXF1Hw_dcrochu",
-		"post-pentecosten":"/nocturnale/EXF1Hs_dcrochu"
+    "datum":[["/hymni/EXF1Hw_dcrochu"]],
+		"post-pentecosten":[["/hymni/EXF1Hs_dcrochu"]]
   },
   {
 		"tags":["matutinum","temporale","hymnus"],
-		"in-tempore-adventus":"/nocturnale/EXA1H_dcrochu",
-		"in-tempore-quadragesimae":"/nocturnale/Q1H_marteo",
-		"in-tempore-passionis":"/nocturnale/EXQ5H_dcrochu",
-		"in-tempore-paschali":"/nocturnale/EXP1H_dcrochu"
+		"in-tempore-adventus":[["/hymni/EXA1H_dcrochu"]],
+		"in-tempore-quadragesimae":[["/hymni/Q1H"]],
+		"in-tempore-passionis":[["/hymni/EXQ5H_dcrochu"]],
+		"in-tempore-paschali":[["/hymni/EXP1H_dcrochu"]]
   },
   {
 		"tags":["matutinum","dominica","nocturna-i","antiphona","antiphona-i"],
-		"datum":"/nocturnale/F1N1A2",
-		"in-tempore-adventus":"/nocturnale/A1F1N1A1",
-		"in-tempore-paschali":"/nocturnale/P1F1N1A"
+		"datum":[["/antiphonae/F1N1A2"]],
+		"in-tempore-adventus":[["/antiphonae/A1F1N1A1"]],
+		"in-tempore-paschali":[["/antiphonae/P1F1N1A"]]
   },
   {
 		"tags":["matutinum","dominica","nocturna-i","antiphona","antiphona-ii"],
-		"datum":"/nocturnale/EXF1N1A2",
-		"in-tempore-adventus":"/nocturnale/A1F1N1A2"
+		"datum":[["/antiphonae/EXF1N1A2"]],
+		"in-tempore-adventus":[["/antiphonae/A1F1N1A2"]]
   },
   {
 		"tags":["matutinum","dominica","nocturna-i","antiphona","antiphona-iii"],
-		"datum":"/nocturnale/EXF1N1A3",
-		"in-tempore-adventus":"/nocturnale/A1F1N1A3"
+		"datum":[["/antiphonae/EXF1N1A3"]],
+		"in-tempore-adventus":[["/antiphonae/A1F1N1A3"]]
   },
   {
 		"tags":["matutinum","dominica","nocturna-ii","antiphona","antiphona-i"],
-		"datum":"/nocturnale/EXF1N2A1",
-		"in-tempore-adventus":"/nocturnale/A1F1N2A1",
-		"in-tempore-paschali":"/nocturnale/P1F1N2A"
+		"datum":[["/antiphonae/EXF1N2A1"]],
+		"in-tempore-adventus":[["/antiphonae/A1F1N2A1"]],
+		"in-tempore-paschali":[["/antiphonae/P1F1N2A"]]
   },
   {
 		"tags":["matutinum","dominica","nocturna-ii","antiphona","antiphona-ii"],
-		"datum":"/nocturnale/EXF1N2A2",
-		"in-tempore-adventus":"/nocturnale/A1F1N2A2"
+		"datum":[["/antiphonae/EXF1N2A2"]],
+		"in-tempore-adventus":[["/antiphonae/A1F1N2A2"]]
   },
   {
 		"tags":["matutinum","dominica","nocturna-ii","antiphona","antiphona-iii"],
-		"datum":"/nocturnale/F2N2A1",
-		"in-tempore-adventus":"/nocturnale/A1F1N2A3"
+		"datum":[["/antiphonae/F2N2A1"]],
+		"in-tempore-adventus":[["/antiphonae/A1F1N2A3"]]
   },
   {
 		"tags":["matutinum","dominica","nocturna-iii","antiphona","antiphona-i"],
-		"datum":"/nocturnale/EXF1N3A1",
-		"in-tempore-adventus":"/nocturnale/A1F1N3A1",
-		"in-tempore-paschali":"/nocturnale/P1F1N3A"
+		"datum":[["/antiphonae/EXF1N3A1"]],
+		"in-tempore-adventus":[["/antiphonae/A1F1N3A1"]],
+		"in-tempore-paschali":[["/antiphonae/P1F1N3A"]]
   },
   {
 		"tags":["matutinum","dominica","nocturna-iii","antiphona","antiphona-ii"],
-		"datum":"/nocturnale/F2N3A1",
-		"in-tempore-adventus":"/nocturnale/A1F1N3A2"
+		"datum":[["/antiphonae/F2N3A1"]],
+		"in-tempore-adventus":[["/antiphonae/A1F1N3A2"]]
   },
   {
 		"tags":["matutinum","dominica","nocturna-iii","antiphona","antiphona-iii"],
-		"datum":"/nocturnale/F2N3A2",
-		"in-tempore-adventus":"/nocturnale/A1F1N3A3"
+		"datum":[["/antiphonae/F2N3A2"]],
+		"in-tempore-adventus":[["/antiphonae/A1F1N3A3"]]
   },
   {
 		"tags":["hymnus","te-deum"],
@@ -76,124 +76,124 @@
   },
   {
 		"tags":["matutinum","feria","feria-ii","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/F2I"
+		"datum":[["/invitatoria/F2I"]]
   },
   {
 		"tags":["matutinum","feria","hymnus"],
-		"feria-ii":"/nocturnale/F2H"
+		"feria-ii":[["/hymni/F2H"]]
   },
   {
 		"tags":["matutinum","in-tempore-paschali","feria","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/EXP1F2I"
+		"datum":[["/invitatoria/EXP1F2I"]]
   },
   {
 		"tags":["matutinum","feria","feria-ii","antiphona"],
-		"antiphona-i":"/nocturnale/EXF2A1",
-		"in-tempore-paschali":"/nocturnale/EXP1F2A",
-		"antiphona-ii":"/nocturnale/EXF2A2",
-		"antiphona-iii":"/nocturnale/EXF2A3",
-		"antiphona-iv":"/nocturnale/EXF2A4",
-		"antiphona-v":"/nocturnale/EXF2A5",
-		"antiphona-vi":"/nocturnale/EXF2A6"
+		"antiphona-i":[["/antiphonae/EXF2A1"]],
+		"in-tempore-paschali":[["/antiphonae/EXP1F2A"]],
+		"antiphona-ii":[["/antiphonae/EXF2A2"]],
+		"antiphona-iii":[["/antiphonae/EXF2A3"]],
+		"antiphona-iv":[["/antiphonae/EXF2A4"]],
+		"antiphona-v":[["/antiphonae/EXF2A5"]],
+		"antiphona-vi":[["/antiphonae/EXF2A6"]]
   },
   {
 		"tags":["matutinum","feria","feria-iii","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/F3I"
+		"datum":[["/invitatoria/F3I"]]
   },
   {
 		"tags":["matutinum","feria","hymnus"],
-		"feria-iii":"/nocturnale/F3H"
+		"feria-iii":[["/hymni/F3H"]]
   },
   {
 		"tags":["matutinum","feria","feria-iii","antiphona"],
-		"antiphona-i":"/nocturnale/EXF3A1",
-		"in-tempore-paschali":"/nocturnale/EXP1F3A",
-		"antiphona-ii":"/nocturnale/EXF3A2",
-		"antiphona-iii":"/nocturnale/EXF3A3",
-		"antiphona-iv":"/nocturnale/EXF3A4",
-		"antiphona-v":"/nocturnale/EXF3A5",
-		"antiphona-vi":"/nocturnale/F4N3A1"
+		"antiphona-i":[["/antiphonae/EXF3A1"]],
+		"in-tempore-paschali":[["/antiphonae/EXP1F3A"]],
+		"antiphona-ii":[["/antiphonae/EXF3A2"]],
+		"antiphona-iii":[["/antiphonae/EXF3A3"]],
+		"antiphona-iv":[["/antiphonae/EXF3A4"]],
+		"antiphona-v":[["/antiphonae/EXF3A5"]],
+		"antiphona-vi":[["/antiphonae/F4N3A1"]]
   },
   {
 		"tags":["matutinum","feria","feria-iv","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/EXF4I"
+		"datum":[["/invitatoria/EXF4I"]]
   },
   {
 		"tags":["matutinum","feria","hymnus"],
-		"feria-iv":"/nocturnale/F4H"
+		"feria-iv":[["/hymni/F4H"]]
   },
   {
 		"tags":["matutinum","feria","feria-iv","antiphona"],
-		"antiphona-i":"/nocturnale/EXF4A1",
-		"in-tempore-paschali":"/nocturnale/EXP1F4A",
-		"antiphona-ii":"/nocturnale/EXF4A2",
-		"antiphona-iii":"/nocturnale/EXF4A3",
-		"antiphona-iv":"/nocturnale/EXF4A4",
-		"antiphona-v":"/nocturnale/EXF4A5",
-		"antiphona-vi":"/nocturnale/EXF4A6"
+		"antiphona-i":[["/antiphonae/EXF4A1"]],
+		"in-tempore-paschali":[["/antiphonae/EXP1F4A"]],
+		"antiphona-ii":[["/antiphonae/EXF4A2"]],
+		"antiphona-iii":[["/antiphonae/EXF4A3"]],
+		"antiphona-iv":[["/antiphonae/EXF4A4"]],
+		"antiphona-v":[["/antiphonae/EXF4A5"]],
+		"antiphona-vi":[["/antiphonae/EXF4A6"]]
   },
   {
 		"tags":["matutinum","feria","feria-v","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/EXF5I"
+		"datum":[["/invitatoria/EXF5I"]]
   },
   {
 		"tags":["matutinum","feria","hymnus"],
-		"feria-v":"/nocturnale/F5H"
+		"feria-v":[["/hymni/F5H"]]
   },
   {
 		"tags":["matutinum","feria","feria-v","antiphona"],
-		"antiphona-i":"/nocturnale/EXF5A1",
-		"in-tempore-paschali":"/nocturnale/EXP1F5A",
-		"antiphona-ii":"/nocturnale/EXF5A2",
-		"antiphona-iii":"/nocturnale/EXF5A3",
-		"antiphona-iv":"/nocturnale/EXF5A4",
-		"antiphona-v":"/nocturnale/EXF5A5",
-		"antiphona-vi":"/nocturnale/EXF5A6"
+		"antiphona-i":[["/antiphonae/EXF5A1"]],
+		"in-tempore-paschali":[["/antiphonae/EXP1F5A"]],
+		"antiphona-ii":[["/antiphonae/EXF5A2"]],
+		"antiphona-iii":[["/antiphonae/EXF5A3"]],
+		"antiphona-iv":[["/antiphonae/EXF5A4"]],
+		"antiphona-v":[["/antiphonae/EXF5A5"]],
+		"antiphona-vi":[["/antiphonae/EXF5A6"]]
 	},
 	{
 		"tags":["matutinum","feria","feria-vi","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/EXF6I"
+		"datum":[["/invitatoria/EXF6I"]]
   },
   {
 		"tags":["matutinum","feria","hymnus"],
-		"feria-vi":"/nocturnale/F6H"
+		"feria-vi":[["/hymni/F6H"]]
   },
   {
 		"tags":["matutinum","feria","feria-vi","antiphona"],
-		"antiphona-i":"/nocturnale/EXF6A1",
-		"in-tempore-paschali":"/nocturnale/EXP1F6A",
-		"antiphona-ii":"/nocturnale/EXF6A2",
-		"antiphona-iii":"/nocturnale/EXF6A3",
-		"antiphona-iv":"/nocturnale/EXF6A4",
-		"antiphona-v":"/nocturnale/EXF6A5",
-		"antiphona-vi":"/nocturnale/EXF6A6"
+		"antiphona-i":[["/antiphonae/EXF6A1"]],
+		"in-tempore-paschali":[["/antiphonae/EXP1F6A"]],
+		"antiphona-ii":[["/antiphonae/EXF6A2"]],
+		"antiphona-iii":[["/antiphonae/EXF6A3"]],
+		"antiphona-iv":[["/antiphonae/EXF6A4"]],
+		"antiphona-v":[["/antiphonae/EXF6A5"]],
+		"antiphona-vi":[["/antiphonae/EXF6A6"]]
 	},
 	{
 		"tags":["matutinum","feria","sabbatum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/F6I"
+		"datum":[["/invitatoria/F6I"]]
   },
   {
 		"tags":["matutinum","feria","hymnus"],
-		"sabbatum":"/nocturnale/EXF7H_sandhofe"
+		"sabbatum":[["/hymni/EXF7H_dcrochu"]]
   },
   {
 		"tags":["matutinum","feria","sabbatum","antiphona"],
-		"antiphona-i":"/nocturnale/EXF7A1",
-		"in-tempore-paschali":"/nocturnale/EXP1F7A",
-		"antiphona-ii":"/nocturnale/EXF7A2a"
+		"antiphona-i":[["/antiphonae/EXF7A1"]],
+		"in-tempore-paschali":[["/antiphonae/EXP1F7A"]],
+		"antiphona-ii":[["/antiphonae/EXF7A2a"]]
   },
   {
 		"tags":[
 			["matutinum","feria","sabbatum","vigilia-nativitatis","antiphona","antiphona-ii"],
 			["matutinum","feria","sabbatum","pro-bmv-sabbato","antiphona","antiphona-ii"]
 		],
-		"datum":"/nocturnale/EXF7A2b"
+		"datum":[["/antiphonae/EXF7A2b"]]
   },
   {
 		"tags":["matutinum","feria","sabbatum","antiphona"],
-		"antiphona-iii":"/nocturnale/EXF7A3",
-		"antiphona-iv":"/nocturnale/EXF7A4",
-		"antiphona-v":"/nocturnale/EXF7A5",
-		"antiphona-vi":"/nocturnale/EXF7A6"
+		"antiphona-iii":[["/antiphonae/EXF7A3"]],
+		"antiphona-iv":[["/antiphonae/EXF7A4"]],
+		"antiphona-v":[["/antiphonae/EXF7A5"]],
+		"antiphona-vi":[["/antiphonae/EXF7A6"]]
   }
 ]

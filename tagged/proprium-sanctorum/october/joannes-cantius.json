@@ -2,7 +2,7 @@
   {
 		"tags":["joannes-cantius","hymnus"],
 		"i-vesperae":[["/hymni/2644"]],
-		"matutinum":"/nocturnale/1020H",
+		"matutinum":[["/hymni/1020H"]],
 		"ii-vesperae":[["/hymni/13082"]]
   }
 ]

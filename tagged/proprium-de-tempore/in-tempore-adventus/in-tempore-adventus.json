@@ -4,16 +4,16 @@
 			["matutinum","hebdomada-i-adventus","antiphona","antiphona-invitatorium"],
 			["matutinum","hebdomada-ii-adventus","antiphona","antiphona-invitatorium"]
 		],
-		"dominica":"/nocturnale/A1F1I",
-		"feria":"/nocturnale/A1F2I"
+		"dominica":[["/invitatoria/A1F1I"]],
+		"feria":[["/invitatoria/A1F2I"]]
   },
   {
 		"tags":[
 			["matutinum","hebdomada-iii-adventus","antiphona","antiphona-invitatorium"],
 			["matutinum","hebdomada-iv-adventus","antiphona","antiphona-invitatorium"]
 		],
-		"dominica":"/nocturnale/A3F1I",
-		"feria":"/nocturnale/A3F2I"
+		"dominica":[["/invitatoria/A3F1I"]],
+		"feria":[["/invitatoria/A3F2I"]]
   },
   {
 		"tags":["in-tempore-adventus","antiphona-major","antiphona","antiphona-magnificat"],

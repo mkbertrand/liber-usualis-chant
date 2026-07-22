@@ -13,21 +13,21 @@
   },
   {
 		"tags":["andreas","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/1130N1A1",
-		"antiphona-ii":"/nocturnale/1130N1A2",
-		"antiphona-iii":"/nocturnale/1130N1A3"
+		"antiphona-i":[["/antiphonae/1130N1A1"]],
+		"antiphona-ii":[["/antiphonae/1130N1A2"]],
+		"antiphona-iii":[["/antiphonae/1130N1A3"]]
   },
   {
 		"tags":["andreas","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/1130N2A1",
-		"antiphona-ii":"/nocturnale/1130N2A2",
-		"antiphona-iii":"/nocturnale/1130N2A3"
+		"antiphona-i":[["/antiphonae/1130N2A1"]],
+		"antiphona-ii":[["/antiphonae/1130N2A2"]],
+		"antiphona-iii":[["/antiphonae/1130N2A3"]]
   },
   {
 		"tags":["andreas","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/1130N3A1",
-		"antiphona-ii":"/nocturnale/1130N3A2",
-		"antiphona-iii":"/nocturnale/1130N3A3"
+		"antiphona-i":[["/antiphonae/1130N3A1"]],
+		"antiphona-ii":[["/antiphonae/1130N3A2"]],
+		"antiphona-iii":[["/antiphonae/1130N3A3"]]
   },
   {
 		"tags":["andreas","laudes","antiphona","antiphona-benedictus"],

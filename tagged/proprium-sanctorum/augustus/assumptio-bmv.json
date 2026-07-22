@@ -13,12 +13,12 @@
   },
   {
 		"tags":["assumptio-bmv","matutinum","antiphona","antiphona-invitatorium"],
-    "datum":"/nocturnale/0815I"
+    "datum":[["/invitatoria/0815I"]]
   },
   {
 		"tags":["assumptio-bmv","matutinum","nocturna-i","antiphona"],
-    "antiphona-i":"/nocturnale/0815N1A1",
-    "antiphona-ii":"/nocturnale/0815N1A2"
+    "antiphona-i":[["/antiphonae/0815N1A1"]],
+    "antiphona-ii":[["/antiphonae/0815N1A2"]]
   },
   {
 		"tags":["assumptio-bmv","laudes","antiphona","antiphona-benedictus"],

@@ -16,10 +16,10 @@
   },
   {
 		"tags":["pascha","matutinum","antiphona"],
-		"antiphona-invitatorium":"/nocturnale/P0I",
-		"antiphon-i":"/nocturnale/P0A1",
-		"antiphona-ii":"/nocturnale/P0A2",
-		"antiphona-iii":"/nocturnale/P0A3"
+		"antiphona-invitatorium":[["/invitatoria/P0I"]],
+		"antiphon-i":[["/antiphonae/P0A1"]],
+		"antiphona-ii":[["/antiphonae/P0A2"]],
+		"antiphona-iii":[["/antiphonae/P0A3"]]
   },
   {
 		"tags":["pascha","antiphona"],

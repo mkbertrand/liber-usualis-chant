@@ -13,32 +13,32 @@
   },
   {
 		"tags":["immaculata-conceptio-bmv","matutinum","antiphona","antiphona-invitatorium"],
-    "datum":"/nocturnale/1208I"
+    "datum":[["/invitatoria/1208I"]]
   },
   {
 		"tags":["immaculata-conceptio-bmv","matutinum","hymnus"],
-    "datum":"/nocturnale/1208H_marteo"
+    "datum":[["/hymni/1208H"]]
   },
   {
 		"tags":["immaculata-conceptio-bmv","matutinum","nocturna-i","antiphona"],
-    "antiphona-i":"/nocturnale/1208N1A1",
-    "in-tempore-paschali":"/nocturnale/1208N1A1",
-    "antiphona-ii":"/nocturnale/1208N1A2",
-    "antiphona-iii":"/nocturnale/1208N1A3"
+    "antiphona-i":[["/antiphonae/1208N1A1"]],
+    "in-tempore-paschali":[["/antiphonae/1208N1A1"]],
+    "antiphona-ii":[["/antiphonae/1208N1A2"]],
+    "antiphona-iii":[["/antiphonae/1208N1A3"]]
   },
   {
 		"tags":["immaculata-conceptio-bmv","matutinum","nocturna-ii","antiphona"],
-    "antiphona-i":"/nocturnale/1208N2A1",
-    "in-tempore-paschali":"/nocturnale/1208N2A1",
-    "antiphona-ii":"/nocturnale/1208N2A2",
-    "antiphona-iii":"/nocturnale/1208N2A3"
+    "antiphona-i":[["/antiphonae/1208N2A1"]],
+    "in-tempore-paschali":[["/antiphonae/1208N2A1"]],
+    "antiphona-ii":[["/antiphonae/1208N2A2"]],
+    "antiphona-iii":[["/antiphonae/1208N2A3"]]
   },
   {
 		"tags":["immaculata-conceptio-bmv","matutinum","nocturna-iii","antiphona"],
-    "antiphona-i":"/nocturnale/1208N3A1",
-    "in-tempore-paschali":"/nocturnale/1208N3A1",
-    "antiphona-ii":"/nocturnale/1208N3A2",
-    "antiphona-iii":"/nocturnale/1208N3A3"
+    "antiphona-i":[["/antiphonae/1208N3A1"]],
+    "in-tempore-paschali":[["/antiphonae/1208N3A1"]],
+    "antiphona-ii":[["/antiphonae/1208N3A2"]],
+    "antiphona-iii":[["/antiphonae/1208N3A3"]]
   },
   {
 		"tags":["immaculata-conceptio-bmv","laudes","antiphona","antiphona-benedictus"],

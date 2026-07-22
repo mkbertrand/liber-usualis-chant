@@ -11,33 +11,33 @@
   {
     "tags":["joseph-sponsus","hymnus"],
 		"vesperae":[["/hymni/2235"]],
-		"matutinum":"/nocturnale/0319H",
+		"matutinum":[["/hymni/0319H"]],
 		"laudes":[["/hymni/12237"]]
   },
   {
 		"tags":["joseph-sponsus","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0319I"
+		"datum":[["/invitatoria/0319I"]]
   },
   {
 		"tags":["joseph-sponsus","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0319N1A1",
-		"in-tempore-paschali":"/nocturnale/0319N1A1",
-		"antiphona-ii":"/nocturnale/0319N1A2",
-		"antiphona-iii":"/nocturnale/0319N1A3"
+		"antiphona-i":[["/antiphonae/0319N1A1"]],
+		"in-tempore-paschali":[["/antiphonae/0319N1A1"]],
+		"antiphona-ii":[["/antiphonae/0319N1A2"]],
+		"antiphona-iii":[["/antiphonae/0319N1A3"]]
   },
   {
 		"tags":["joseph-sponsus","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0319N2A1",
-		"in-tempore-paschali":"/nocturnale/0319N2A1",
-		"antiphona-ii":"/nocturnale/0319N2A2",
-		"antiphona-iii":"/nocturnale/0319N2A3"
+		"antiphona-i":[["/antiphonae/0319N2A1"]],
+		"in-tempore-paschali":[["/antiphonae/0319N2A1"]],
+		"antiphona-ii":[["/antiphonae/0319N2A2"]],
+		"antiphona-iii":[["/antiphonae/0319N2A3"]]
   },
   {
 		"tags":["joseph-sponsus","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0319N3A1",
-		"in-tempore-paschali":"/nocturnale/0319N3A1",
-		"antiphona-ii":"/nocturnale/0319N3A2",
-		"antiphona-iii":"/nocturnale/0319N3A3"
+		"antiphona-i":[["/antiphonae/0319N3A1"]],
+		"in-tempore-paschali":[["/antiphonae/0319N3A1"]],
+		"antiphona-ii":[["/antiphonae/0319N3A2"]],
+		"antiphona-iii":[["/antiphonae/0319N3A3"]]
   },
   {
     "tags":["joseph-sponsus","antiphona"],

@@ -10,7 +10,7 @@
   {
 		"tags":["nomen-jesu","hymnus"],
 		"vesperae":[["/hymni/1911"]],
-		"matutinum":"/nocturnale/N2H",
+		"matutinum":[["/hymni/N2H"]],
 		"laudes":[["/hymni/11869"]]
   },
   {
@@ -19,25 +19,25 @@
   },
   {
 		"tags":["nomen-jesu","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/N2I"
+		"datum":[["/invitatoria/N2I"]]
   },
   {
 		"tags":["nomen-jesu","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/N2N1A1",
-		"antiphona-ii":"/nocturnale/N2N1A2",
-		"antiphona-iii":"/nocturnale/N2N1A3"
+		"antiphona-i":[["/antiphonae/N2N1A1"]],
+		"antiphona-ii":[["/antiphonae/N2N1A2"]],
+		"antiphona-iii":[["/antiphonae/N2N1A3"]]
   },
   {
 		"tags":["nomen-jesu","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/N2N2A1",
-		"antiphona-ii":"/nocturnale/N2N2A2",
-		"antiphona-iii":"/nocturnale/N2N2A3"
+		"antiphona-i":[["/antiphonae/N2N2A1"]],
+		"antiphona-ii":[["/antiphonae/N2N2A2"]],
+		"antiphona-iii":[["/antiphonae/N2N2A3"]]
   },
   {
 		"tags":["nomen-jesu","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/N2N3A1",
-		"antiphona-ii":"/nocturnale/N2N3A2",
-		"antiphona-iii":"/nocturnale/N2N3A3"
+		"antiphona-i":[["/antiphonae/N2N3A1"]],
+		"antiphona-ii":[["/antiphonae/N2N3A2"]],
+		"antiphona-iii":[["/antiphonae/N2N3A3"]]
   },
   {
 		"tags":["nomen-jesu","antiphona"],

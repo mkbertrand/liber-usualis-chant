@@ -10,7 +10,7 @@
   {
     "tags":["septem-dolores-passione","hymnus"],
 		"vesperae":[["/hymni/2163"]],
-		"matutinum":"/nocturnale/Q5F6H",
+		"matutinum":[["/hymni/Q5F6H"]],
 		"laudes":[["/hymni/12383"]]
   },
   {
@@ -19,31 +19,31 @@
   },
   {
 		"tags":["septem-dolores-passione","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/Q5F6I"
+		"datum":[["/invitatoria/Q5F6I"]]
   },
 	{
 		"tags":["septem-dolores-passione","matutinum","nocturna-i","antiphona","antiphona-iii"],
-		"datum":"/nocturnale/0915N2A1"
+		"datum":[["/antiphonae/0915N2A1"]]
 	},
   {
 		"tags":["septem-dolores-passione","matutinum","nocturna-ii","antiphona","antiphona-i"],
-		"datum":"/nocturnale/Q5F6N2A1"
+		"datum":[["/antiphonae/Q5F6N2A1"]]
   },
   {
 		"tags":["septem-dolores-passione","matutinum","nocturna-ii","antiphona","antiphona-ii"],
-		"datum":"/nocturnale/0915N2A2"
+		"datum":[["/antiphonae/0915N2A2"]]
   },
   {
 		"tags":["septem-dolores-passione","matutinum","nocturna-ii","antiphona","antiphona-iii"],
-		"datum":"/nocturnale/Q5F6N2A3"
+		"datum":[["/antiphonae/Q5F6N2A3"]]
   },
   {
 		"tags":["septem-dolores-passione","matutinum","nocturna-iii","antiphona","antiphona-ii"],
-		"datum":"/nocturnale/Q5F6N3A2"
+		"datum":[["/antiphonae/Q5F6N3A2"]]
   },
   {
 		"tags":["septem-dolores-passione","matutinum","nocturna-iii","antiphona","antiphona-iii"],
-		"datum":"/nocturnale/Q5F6N3A3"
+		"datum":[["/antiphonae/Q5F6N3A3"]]
   },
   {
 		"tags":[

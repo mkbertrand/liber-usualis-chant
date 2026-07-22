@@ -20,19 +20,19 @@
   },
   {
 		"tags":["patrocinius-joseph","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/P2F4I"
+		"datum":[["/invitatoria/P2F4I"]]
   },
   {
 		"tags":["patrocinius-joseph","matutinum","nocturna-i","antiphona"],
-		"datum":"/nocturnale/P2F4N1A"
+		"datum":[["/antiphonae/P2F4N1A"]]
   },
   {
 		"tags":["patrocinius-joseph","matutinum","nocturna-ii","antiphona"],
-		"datum":"/nocturnale/P2F4N2A"
+		"datum":[["/antiphonae/P2F4N2A"]]
   },
   {
 		"tags":["patrocinius-joseph","matutinum","nocturna-iii","antiphona"],
-		"datum":"/nocturnale/P2F4N3A"
+		"datum":[["/antiphonae/P2F4N3A"]]
   },
   {
 		"tags":["patrocinius-joseph","laudes","hymnus"],

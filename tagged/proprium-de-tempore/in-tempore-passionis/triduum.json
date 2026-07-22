@@ -1,21 +1,21 @@
 [
   {
 		"tags":["coena-domini","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/Q6F5N1A1",
-		"antiphona-ii":"/nocturnale/Q6F5N1A2",
-		"antiphona-iii":"/nocturnale/Q6F5N1A3"
+		"antiphona-i":[["/antiphonae/Q6F5N1A1"]],
+		"antiphona-ii":[["/antiphonae/Q6F5N1A2"]],
+		"antiphona-iii":[["/antiphonae/Q6F5N1A3"]]
   },
   {
 		"tags":["coena-domini","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/Q6F5N2A1",
-		"antiphona-ii":"/nocturnale/Q6F5N2A2",
-		"antiphona-iii":"/nocturnale/Q6F5N2A3"
+		"antiphona-i":[["/antiphonae/Q6F5N2A1"]],
+		"antiphona-ii":[["/antiphonae/Q6F5N2A2"]],
+		"antiphona-iii":[["/antiphonae/Q6F5N2A3"]]
   },
   {
 		"tags":["coena-domini","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/Q6F5N3A1",
-		"antiphona-ii":"/nocturnale/Q6F5N3A2",
-		"antiphona-iii":"/nocturnale/Q6F5N3A3"
+		"antiphona-i":[["/antiphonae/Q6F5N3A1"]],
+		"antiphona-ii":[["/antiphonae/Q6F5N3A2"]],
+		"antiphona-iii":[["/antiphonae/Q6F5N3A3"]]
   },
   {
 		"tags":["coena-domini","laudes","antiphona"],
@@ -34,21 +34,21 @@
   },
   {
 		"tags":["parasceve","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/Q6F6N1A1",
-		"antiphona-ii":"/nocturnale/Q6F6N1A2",
-		"antiphona-iii":"/nocturnale/Q6F6N1A3"
+		"antiphona-i":[["/antiphonae/Q6F6N1A1"]],
+		"antiphona-ii":[["/antiphonae/Q6F6N1A2"]],
+		"antiphona-iii":[["/antiphonae/Q6F6N1A3"]]
   },
   {
 		"tags":["parasceve","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/Q6F6N2A1",
-		"antiphona-ii":"/nocturnale/Q6F6N2A2",
-		"antiphona-iii":"/nocturnale/Q6F6N2A3"
+		"antiphona-i":[["/antiphonae/Q6F6N2A1"]],
+		"antiphona-ii":[["/antiphonae/Q6F6N2A2"]],
+		"antiphona-iii":[["/antiphonae/Q6F6N2A3"]]
   },
   {
 		"tags":["parasceve","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/Q6F6N3A1",
-		"antiphona-ii":"/nocturnale/Q6F6N3A2",
-		"antiphona-iii":"/nocturnale/Q6F6N3A3"
+		"antiphona-i":[["/antiphonae/Q6F6N3A1"]],
+		"antiphona-ii":[["/antiphonae/Q6F6N3A2"]],
+		"antiphona-iii":[["/antiphonae/Q6F6N3A3"]]
   },
   {
 		"tags":["parasceve","laudes","antiphona"],
@@ -61,21 +61,21 @@
   },
   {
 		"tags":["sabbatum-sanctum","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/Q6F7N1A1",
-		"antiphona-ii":"/nocturnale/Q6F7N1A2",
-		"antiphona-iii":"/nocturnale/Q6F7N1A3"
+		"antiphona-i":[["/antiphonae/Q6F7N1A1"]],
+		"antiphona-ii":[["/antiphonae/Q6F7N1A2"]],
+		"antiphona-iii":[["/antiphonae/Q6F7N1A3"]]
   },
   {
 		"tags":["sabbatum-sanctum","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/Q6F7N2A1",
-		"antiphona-ii":"/nocturnale/Q6F7N2A2",
-		"antiphona-iii":"/nocturnale/Q6F7N2A3"
+		"antiphona-i":[["/antiphonae/Q6F7N2A1"]],
+		"antiphona-ii":[["/antiphonae/Q6F7N2A2"]],
+		"antiphona-iii":[["/antiphonae/Q6F7N2A3"]]
   },
   {
 		"tags":["sabbatum-sanctum","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/Q6F7N3A1",
-		"antiphona-ii":"/nocturnale/Q6F7N3A2",
-		"antiphona-iii":"/nocturnale/Q6F7N3A3"
+		"antiphona-i":[["/antiphonae/Q6F7N3A1"]],
+		"antiphona-ii":[["/antiphonae/Q6F7N3A2"]],
+		"antiphona-iii":[["/antiphonae/Q6F7N3A3"]]
   },
   {
 		"tags":["sabbatum-sanctum","laudes","antiphona"],

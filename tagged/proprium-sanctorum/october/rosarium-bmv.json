@@ -17,29 +17,29 @@
   },
   {
 		"tags":["rosarium-bmv","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/1007I"
+		"datum":[["/invitatoria/1007I"]]
   },
   {
 		"tags":["rosarium-bmv","hymnus"],
-		"matutinum":"/nocturnale/1007H"
+		"matutinum":[["/hymni/1007H"]]
   },
   {
 		"tags":["rosarium-bmv","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/1007N1A1",
-		"antiphona-ii":"/nocturnale/1007N1A2",
-		"antiphona-iii":"/nocturnale/1007N1A3"
+		"antiphona-i":[["/antiphonae/1007N1A1"]],
+		"antiphona-ii":[["/antiphonae/1007N1A2"]],
+		"antiphona-iii":[["/antiphonae/1007N1A3"]]
   },
   {
 		"tags":["rosarium-bmv","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/1007N2A1",
-		"antiphona-ii":"/nocturnale/1007N2A2",
-		"antiphona-iii":"/nocturnale/1007N2A3"
+		"antiphona-i":[["/antiphonae/1007N2A1"]],
+		"antiphona-ii":[["/antiphonae/1007N2A2"]],
+		"antiphona-iii":[["/antiphonae/1007N2A3"]]
   },
   {
 		"tags":["rosarium-bmv","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/1007N3A1",
-		"antiphona-ii":"/nocturnale/1007N3A2",
-		"antiphona-iii":"/nocturnale/1007N3A3"
+		"antiphona-i":[["/antiphonae/1007N3A1"]],
+		"antiphona-ii":[["/antiphonae/1007N3A2"]],
+		"antiphona-iii":[["/antiphonae/1007N3A3"]]
   },
   {
 		"tags":["rosarium-bmv","antiphona"],

@@ -10,7 +10,7 @@
   {
 		"tags":["martyres","hymnus"],
 		"vesperae":[["/hymni/2571"]],
-    "datum":"/nocturnale/EXPMEXH_dcrochu",
+    "datum":[["/hymni/EXPMEXH_dcrochu"]],
 		"laudes":[["/hymni/2790"]]
   },
   {
@@ -19,21 +19,21 @@
   },
   {
 		"tags":["martyres","matutinum","nocturna-i","antiphona"],
-    "antiphona-i":"/nocturnale/PMEXN1A1",
-    "antiphona-ii":"/nocturnale/PMEXN1A2",
-    "antiphona-iii":"/nocturnale/PMEXN1A3"
+    "antiphona-i":[["/antiphonae/PMEXN1A1"]],
+    "antiphona-ii":[["/antiphonae/PMEXN1A2"]],
+    "antiphona-iii":[["/antiphonae/PMEXN1A3"]]
   },
   {
 		"tags":["martyres","matutinum","nocturna-ii","antiphona"],
-    "antiphona-i":"/nocturnale/PMEXN2A1",
-    "antiphona-ii":"/nocturnale/PMEXN2A2",
-    "antiphona-iii":"/nocturnale/PMEXN2A3"
+    "antiphona-i":[["/antiphonae/PMEXN2A1"]],
+    "antiphona-ii":[["/antiphonae/PMEXN2A2"]],
+    "antiphona-iii":[["/antiphonae/PMEXN2A3"]]
   },
   {
 		"tags":["martyres","matutinum","nocturna-iii","antiphona"],
-    "antiphona-i":"/nocturnale/PMEXN3A1",
-    "antiphona-ii":"/nocturnale/PMEXN3A2",
-    "antiphona-iii":"/nocturnale/PMEXN3A3"
+    "antiphona-i":[["/antiphonae/PMEXN3A1"]],
+    "antiphona-ii":[["/antiphonae/PMEXN3A2"]],
+    "antiphona-iii":[["/antiphonae/PMEXN3A3"]]
   },
   {
 		"tags":["martyres","laudes","antiphona","antiphona-benedictus"],

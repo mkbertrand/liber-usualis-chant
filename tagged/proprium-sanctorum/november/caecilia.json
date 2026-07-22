@@ -13,21 +13,21 @@
   },
   {
 		"tags":["caecilia","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/1122N1A1",
-		"antiphona-ii":"/nocturnale/1122N1A2",
-		"antiphona-iii":"/nocturnale/1122N1A3"
+		"antiphona-i":[["/antiphonae/1122N1A1"]],
+		"antiphona-ii":[["/antiphonae/1122N1A2"]],
+		"antiphona-iii":[["/antiphonae/1122N1A3"]]
   },
   {
 		"tags":["caecilia","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/1122N2A1",
-		"antiphona-ii":"/nocturnale/1122N2A2",
-		"antiphona-iii":"/nocturnale/1122N2A3"
+		"antiphona-i":[["/antiphonae/1122N2A1"]],
+		"antiphona-ii":[["/antiphonae/1122N2A2"]],
+		"antiphona-iii":[["/antiphonae/1122N2A3"]]
   },
   {
 		"tags":["caecilia","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/1122N3A1",
-		"antiphona-ii":"/nocturnale/1122N3A2",
-		"antiphona-iii":"/nocturnale/1122N3A3"
+		"antiphona-i":[["/antiphonae/1122N3A1"]],
+		"antiphona-ii":[["/antiphonae/1122N3A2"]],
+		"antiphona-iii":[["/antiphonae/1122N3A3"]]
   },
   {
 		"tags":["caecilia","laudes","antiphona","antiphona-benedictus"],

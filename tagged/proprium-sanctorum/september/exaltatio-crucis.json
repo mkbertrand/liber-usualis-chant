@@ -1,11 +1,11 @@
 [
   {
 		"tags":["exaltatio-crucis","matutinum","nocturna-i","antiphona","antiphona-i"],
-		"datum":"/nocturnale/0914N1A1"
+		"datum":[["/antiphonae/0914N1A1"]]
   },
   {
 		"tags":["exaltatio-crucis","matutinum","nocturna-ii","antiphona","antiphona-i"],
-		"datum":"/nocturnale/0914N2A1"
+		"datum":[["/antiphonae/0914N2A1"]]
   },
   {
 		"tags":["exaltatio-crucis","ii-vesperae","antiphona","antiphona-magnificat"],

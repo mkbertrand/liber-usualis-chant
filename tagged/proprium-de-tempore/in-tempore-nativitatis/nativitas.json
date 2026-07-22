@@ -10,24 +10,24 @@
   },
   {
 		"tags":["nativitas","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/1225I"
+		"datum":[["/invitatoria/1225I"]]
   },
   {
 		"tags":["nativitas","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/1225N1A1",
-		"antiphona-ii":"/nocturnale/1225N1A2",
-		"antiphona-iii":"/nocturnale/1225N1A3"
+		"antiphona-i":[["/antiphonae/1225N1A1"]],
+		"antiphona-ii":[["/antiphonae/1225N1A2"]],
+		"antiphona-iii":[["/antiphonae/1225N1A3"]]
   },
   {
 		"tags":["nativitas","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/1225N2A1",
-		"antiphona-ii":"/nocturnale/1225N2A2",
-		"antiphona-iii":"/nocturnale/1225N2A3"
+		"antiphona-i":[["/antiphonae/1225N2A1"]],
+		"antiphona-ii":[["/antiphonae/1225N2A2"]],
+		"antiphona-iii":[["/antiphonae/1225N2A3"]]
   },
   {
 		"tags":["nativitas","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/1225N3A1",
-		"antiphona-ii":"/nocturnale/1225N3A2",
+		"antiphona-i":[["/antiphonae/1225N3A1"]],
+		"antiphona-ii":[["/antiphonae/1225N3A2"]],
 		"antiphona-iii":"nocturnale/1225N3A3"
   },
   {

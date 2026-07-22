@@ -13,21 +13,21 @@
   },
   {
 		"tags":["agnes","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0121N1A1",
-		"antiphona-ii":"/nocturnale/0121N1A2",
-		"antiphona-iii":"/nocturnale/0121N1A3"
+		"antiphona-i":[["/antiphonae/0121N1A1"]],
+		"antiphona-ii":[["/antiphonae/0121N1A2"]],
+		"antiphona-iii":[["/antiphonae/0121N1A3"]]
   },
   {
 		"tags":["agnes","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0121N2A1",
-		"antiphona-ii":"/nocturnale/0121N2A2",
-		"antiphona-iii":"/nocturnale/0121N2A3"
+		"antiphona-i":[["/antiphonae/0121N2A1"]],
+		"antiphona-ii":[["/antiphonae/0121N2A2"]],
+		"antiphona-iii":[["/antiphonae/0121N2A3"]]
   },
   {
 		"tags":["agnes","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0121N3A1",
-		"antiphona-ii":"/nocturnale/0121N3A2",
-		"antiphona-iii":"/nocturnale/0121N3A3"
+		"antiphona-i":[["/antiphonae/0121N3A1"]],
+		"antiphona-ii":[["/antiphonae/0121N3A2"]],
+		"antiphona-iii":[["/antiphonae/0121N3A3"]]
   },
   {
 		"tags":["agnes","laudes","antiphona","antiphona-benedictus"],

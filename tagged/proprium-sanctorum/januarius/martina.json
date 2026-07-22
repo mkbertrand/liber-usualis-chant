@@ -1,7 +1,7 @@
 [
   {
 		"tags":["martina","hymnus"],
-    "matutinum":"/nocturnale/0130H_marteo",
+    "matutinum":[["/hymni/0130H"]],
 		"laudes":[["/hymni/12609"]]
   }
 ]

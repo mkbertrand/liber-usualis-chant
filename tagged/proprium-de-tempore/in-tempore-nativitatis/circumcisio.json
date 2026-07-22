@@ -13,21 +13,21 @@
   },
   {
 		"tags":["circumcisio","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/1225N1A1",
-		"antiphona-ii":"/nocturnale/0101N1A2",
-		"antiphona-iii":"/nocturnale/0101N1A3"
+		"antiphona-i":[["/antiphonae/1225N1A1"]],
+		"antiphona-ii":[["/antiphonae/0101N1A2"]],
+		"antiphona-iii":[["/antiphonae/0101N1A3"]]
   },
   {
 		"tags":["circumcisio","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0101N2A1",
-		"antiphona-ii":"/nocturnale/0101N2A2",
-		"antiphona-iii":"/nocturnale/0101N2A3"
+		"antiphona-i":[["/antiphonae/0101N2A1"]],
+		"antiphona-ii":[["/antiphonae/0101N2A2"]],
+		"antiphona-iii":[["/antiphonae/0101N2A3"]]
   },
   {
 		"tags":["circumcisio","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0101N3A1",
-		"antiphona-ii":"/nocturnale/0101N3A2",
-		"antiphona-iii":"/nocturnale/0101N3A3"
+		"antiphona-i":[["/antiphonae/0101N3A1"]],
+		"antiphona-ii":[["/antiphonae/0101N3A2"]],
+		"antiphona-iii":[["/antiphonae/0101N3A3"]]
   },
   {
 		"tags":["circumcisio","laudes","antiphona","antiphona-benedictus"],

@@ -20,25 +20,25 @@
   },
   {
 		"tags":["angeli-custodes","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/1002I"
+		"datum":[["/invitatoria/1002I"]]
   },
   {
 		"tags":["angeli-custodes","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/1002N1A1",
-		"antiphona-ii":"/nocturnale/1002N1A2",
-		"antiphona-iii":"/nocturnale/1002N1A3"
+		"antiphona-i":[["/antiphonae/1002N1A1"]],
+		"antiphona-ii":[["/antiphonae/1002N1A2"]],
+		"antiphona-iii":[["/antiphonae/1002N1A3"]]
   },
   {
 		"tags":["angeli-custodes","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/1002N2A1",
-		"antiphona-ii":"/nocturnale/1002N2A2",
-		"antiphona-iii":"/nocturnale/1002N2A3"
+		"antiphona-i":[["/antiphonae/1002N2A1"]],
+		"antiphona-ii":[["/antiphonae/1002N2A2"]],
+		"antiphona-iii":[["/antiphonae/1002N2A3"]]
   },
   {
 		"tags":["angeli-custodes","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/1002N3A1",
-		"antiphona-ii":"/nocturnale/1002N3A2",
-		"antiphona-iii":"/nocturnale/1002N3A3"
+		"antiphona-i":[["/antiphonae/1002N3A1"]],
+		"antiphona-ii":[["/antiphonae/1002N3A2"]],
+		"antiphona-iii":[["/antiphonae/1002N3A3"]]
   },
   {
 		"tags":["angeli-custodes","laudes","hymnus"],

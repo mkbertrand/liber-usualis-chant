@@ -20,25 +20,25 @@
   },
   {
 		"tags":["conversio-pauli","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0125I"
+		"datum":[["/invitatoria/0125I"]]
   },
   {
 		"tags":["conversio-pauli","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0125N1A1",
-		"antiphona-ii":"/nocturnale/0125N1A2",
-		"antiphona-iii":"/nocturnale/0125N1A3"
+		"antiphona-i":[["/antiphonae/0125N1A1"]],
+		"antiphona-ii":[["/antiphonae/0125N1A2"]],
+		"antiphona-iii":[["/antiphonae/0125N1A3"]]
   },
   {
 		"tags":["conversio-pauli","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0125N2A1",
-		"antiphona-ii":"/nocturnale/0125N2A2",
-		"antiphona-iii":"/nocturnale/0125N2A3"
+		"antiphona-i":[["/antiphonae/0125N2A1"]],
+		"antiphona-ii":[["/antiphonae/0125N2A2"]],
+		"antiphona-iii":[["/antiphonae/0125N2A3"]]
   },
   {
 		"tags":["conversio-pauli","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0125N3A1",
-		"antiphona-ii":"/nocturnale/0125N3A2",
-		"antiphona-iii":"/nocturnale/0125N3A3"
+		"antiphona-i":[["/antiphonae/0125N3A1"]],
+		"antiphona-ii":[["/antiphonae/0125N3A2"]],
+		"antiphona-iii":[["/antiphonae/0125N3A3"]]
   },
   {
 		"tags":["conversio-pauli","laudes","antiphona","antiphona-benedictus"],

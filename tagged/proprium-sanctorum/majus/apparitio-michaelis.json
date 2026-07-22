@@ -20,19 +20,19 @@
   },
   {
 		"tags":["apparitio-michaelis","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0324I"
+		"datum":[["/invitatoria/0324I"]]
   },
   {
 		"tags":["apparitio-michaelis","matutinum","nocturna-i","antiphona"],
-		"datum":"/nocturnale/0929N1A1"
+		"datum":[["/antiphonae/0929N1A1"]]
   },
   {
 		"tags":["apparitio-michaelis","matutinum","nocturna-ii","antiphona"],
-		"datum":"/nocturnale/0929N2A1"
+		"datum":[["/antiphonae/0929N2A1"]]
   },
   {
 		"tags":["apparitio-michaelis","matutinum","nocturna-iii","antiphona"],
-		"datum":"/nocturnale/0929N3A1"
+		"datum":[["/antiphonae/0929N3A1"]]
   },
   {
 		"tags":["apparitio-michaelis","laudes","hymnus"],

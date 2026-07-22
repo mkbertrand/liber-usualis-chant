@@ -17,29 +17,29 @@
   },
   {
 		"tags":["septem-dolores-septembris","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0915I"
+		"datum":[["/invitatoria/0915I"]]
   },
   {
 		"tags":["septem-dolores-septembris","hymnus"],
-		"matutinum":"/nocturnale/0915H"
+		"matutinum":[["/hymni/0915H"]]
   },
   {
 		"tags":["septem-dolores-septembris","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/0915N1A1",
-		"antiphona-ii":"/nocturnale/0915N1A2",
-		"antiphona-iii":"/nocturnale/0915N1A3"
+		"antiphona-i":[["/antiphonae/0915N1A1"]],
+		"antiphona-ii":[["/antiphonae/0915N1A2"]],
+		"antiphona-iii":[["/antiphonae/0915N1A3"]]
   },
   {
 		"tags":["septem-dolores-septembris","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/0915N2A1",
-		"antiphona-ii":"/nocturnale/0915N2A2",
-		"antiphona-iii":"/nocturnale/0915N2A3"
+		"antiphona-i":[["/antiphonae/0915N2A1"]],
+		"antiphona-ii":[["/antiphonae/0915N2A2"]],
+		"antiphona-iii":[["/antiphonae/0915N2A3"]]
   },
   {
 		"tags":["septem-dolores-septembris","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/0915N3A1",
-		"antiphona-ii":"/nocturnale/0915N3A2",
-		"antiphona-iii":"/nocturnale/0915N3A3"
+		"antiphona-i":[["/antiphonae/0915N3A1"]],
+		"antiphona-ii":[["/antiphonae/0915N3A2"]],
+		"antiphona-iii":[["/antiphonae/0915N3A3"]]
   },
   {
 		"tags":["septem-dolores-septembris","hymnus"],

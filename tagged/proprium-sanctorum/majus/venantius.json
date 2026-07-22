@@ -2,7 +2,7 @@
   {
 		"tags":["venantius","hymnus"],
 		"vesperae":[["/hymni/2236"]],
-		"matutinum":"/nocturnale/0518H",
+		"matutinum":[["/hymni/0518H"]],
 		"laudes":[["/hymni/12065"]]
   }
 ]

@@ -10,7 +10,7 @@
   {
 		"tags":["maria","hymnus"],
 		"vesperae":[["/hymni/2232"]],
-		"matutinum":"/nocturnale/CBMVH",
+		"matutinum":[["/hymni/CBMVH"]],
 		"laudes":[["/hymni/2885"]]
   },
   {
@@ -42,32 +42,32 @@
   },
   {
 		"tags":["maria","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/CBMVI"
+		"datum":[["/invitatoria/CBMVI"]]
   },
   {
 		"tags":["maria","matutinum","nocturna-i","antiphona"],
-		"antiphona-i":"/nocturnale/CBMVN1A1",
-		"in-tempore-paschali":"/nocturnale/CBMVN1A1",
-		"antiphona-ii":"/nocturnale/CBMVN1A2",
-		"antiphona-iii":"/nocturnale/MUVXN1A2"
+		"antiphona-i":[["/antiphonae/CBMVN1A1"]],
+		"in-tempore-paschali":[["/antiphonae/CBMVN1A1"]],
+		"antiphona-ii":[["/antiphonae/CBMVN1A2"]],
+		"antiphona-iii":[["/antiphonae/MUVXN1A2"]]
   },
   {
 		"tags":["maria","matutinum","nocturna-ii","antiphona"],
-		"antiphona-i":"/nocturnale/MUXXN2A1",
-		"in-tempore-paschali":"/nocturnale/MUXXN2A1",
-		"antiphona-ii":"/nocturnale/MUXXN2A2",
-		"antiphona-iii":"/nocturnale/CBMVN2A3"
+		"antiphona-i":[["/antiphonae/MUXXN2A1"]],
+		"in-tempore-paschali":[["/antiphonae/MUXXN2A1"]],
+		"antiphona-ii":[["/antiphonae/MUXXN2A2"]],
+		"antiphona-iii":[["/antiphonae/CBMVN2A3"]]
   },
   {
 		"tags":["maria","matutinum","nocturna-iii","antiphona"],
-		"antiphona-i":"/nocturnale/CBMVN3A1",
-		"in-tempore-paschali":"/nocturnale/CBMVN3A1",
-		"antiphona-ii":"/nocturnale/CBMVN3A2",
-		"antiphona-iii":"/nocturnale/CBMVN3A3a"
+		"antiphona-i":[["/antiphonae/CBMVN3A1"]],
+		"in-tempore-paschali":[["/antiphonae/CBMVN3A1"]],
+		"antiphona-ii":[["/antiphonae/CBMVN3A2"]],
+		"antiphona-iii":[["/antiphonae/CBMVN3A3a"]]
   },
   {
 		"tags":["maria","matutinum","nocturna-iii","antiphona","antiphona-iii","in-tempore-adventus"],
-		"datum":"/nocturnale/CBMVN3A3b"
+		"datum":[["/antiphonae/CBMVN3A3b"]]
   },
   {
 		"tags":["maria","laudes","antiphona","antiphona-benedictus"],

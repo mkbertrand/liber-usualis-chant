@@ -17,28 +17,28 @@
   },
   {
 		"tags":["inventio-crucis","matutinum","antiphona","antiphona-invitatorium"],
-		"datum":"/nocturnale/0503I"
+		"datum":[["/invitatoria/0503I"]]
   },
   {
 		"tags":["inventio-crucis","matutinum","nocturna-i","antiphona"],
-		"in-tempore-paschali":"/nocturnale/0503N1A",
-		"antiphona-i":"/nocturnale/0503N1A",
-		"antiphona-ii":"/nocturnale/0914N1A2",
-		"antiphona-iii":"/nocturnale/0914N1A2"
+		"in-tempore-paschali":[["/antiphonae/0503N1A"]],
+		"antiphona-i":[["/antiphonae/0503N1A"]],
+		"antiphona-ii":[["/antiphonae/0914N1A2"]],
+		"antiphona-iii":[["/antiphonae/0914N1A2"]]
   },
   {
 		"tags":["inventio-crucis","matutinum","nocturna-ii","antiphona"],
-		"in-tempore-paschali":"/nocturnale/0503N2A",
-		"antiphona-i":"/nocturnale/0503N2A",
-		"antiphona-ii":"/nocturnale/0914N2A2",
-		"antiphona-iii":"/nocturnale/0914N2A3"
+		"in-tempore-paschali":[["/antiphonae/0503N2A"]],
+		"antiphona-i":[["/antiphonae/0503N2A"]],
+		"antiphona-ii":[["/antiphonae/0914N2A2"]],
+		"antiphona-iii":[["/antiphonae/0914N2A3"]]
   },
   {
 		"tags":["inventio-crucis","matutinum","nocturna-iii","antiphona"],
-		"in-tempore-paschali":"/nocturnale/0503N3A",
-		"antiphona-i":"/nocturnale/0914N3A1",
-		"antiphona-ii":"/nocturnale/0914N3A2",
-		"antiphona-iii":"/nocturnale/0914N3A3"
+		"in-tempore-paschali":[["/antiphonae/0503N3A"]],
+		"antiphona-i":[["/antiphonae/0914N3A1"]],
+		"antiphona-ii":[["/antiphonae/0914N3A2"]],
+		"antiphona-iii":[["/antiphonae/0914N3A3"]]
   },
   {
 		"tags":["inventio-crucis","laudes","antiphona","antiphona-benedictus"],

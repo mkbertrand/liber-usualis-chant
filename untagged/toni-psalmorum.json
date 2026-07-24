@@ -121,5 +121,14 @@
       "p": ["d", "f", "fr", "ed.."],
       "clavis": "c4"
     }
+  ],
+  "d": [
+    {
+      "initium": ["e", "f", "h"],
+      "flexa": [],
+      "medians": ["i", "i", "fr", "f."],
+      "d": ["e", "f", "g", "fr", "f."],
+      "clavis": ["c3"]
+    }
   ]
 }

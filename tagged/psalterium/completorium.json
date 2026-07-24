@@ -15,8 +15,22 @@
 		"tags":["completorium","responsorium-breve"],
     "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"In(f) ma(f)nus(f) tu(fg)as(gf) Dó(gf)mi(g)ne,(gh..)",
-    "responsum":"Com(h')mén(f)do(gh) spí(g)ri(fd)tum(fg) me(g.)um.(f.)",
+    "responsum":"Com(h')mén(f)do(gh) spí(g)ri(fd)tum(fg) me(g.)um.(f.) (::)",
     "versus":"Re(h)de(h)mís(ixhi)ti(h) nos(h) Dó(gh)mi(g)ne,(g'_) (,) De(h)us(g') ve(g)ri(gf)tá(g)tis.(gh..)"
+  },
+  {
+		"tags":["completorium","in-tempore-adventus","responsorium-breve"],
+    "modus":"mode:4;\n%%\n(f3) ",
+    "incipit":"In(h) ma(h)nus(h) tu(h)as(hf) Dó(g')mi(h)ne,(i.)",
+    "responsum":"Com(i)mén(g')do(h) spí(fe)ri(f')tum(h) me(h)um.(g.) (::)",
+    "versus":"Re(e)de(fh)mís(h)ti(h) nos(h) Dó(gh)mi(h)ne,(h'_) (,) De(h)us(h) ve(h)ri(hf)tá(gh)tis.(i.)"
+  },
+  {
+		"tags":["completorium","in-tempore-paschali","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"In(f) ma(f)nus(f) tu(f)as(f) Dó(g)mi(f)ne,(f'_) (,) com(f)mén(f)do(f) spí(f)ri(f)tum(e') me(g)um.(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja, (f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Re(f)de(f)mís(f)ti(f) nos(f) Dó(g)mi(f)ne,(f'_) (,) De(f)us(f) ve(f)ri(e')tá(g)tis.(h.)"
   },
   {
 		"tags":["completorium","antiphona","antiphona-nunc-dimittis"],

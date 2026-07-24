@@ -15,6 +15,10 @@
 		"datum":[["/etc/15464"]]
   },
   {
+    "tags":["pascha","i-vesperae","completorium","antiphona"],
+    "datum":"mode:d;%%(c3)"
+  },
+  {
 		"tags":["pascha","matutinum","antiphona"],
 		"antiphona-invitatorium":[["/invitatoria/P0I"]],
 		"antiphon-i":[["/antiphonae/P0A1"]],
@@ -44,7 +48,7 @@
       ["pascha","sexta","antiphona"],
       ["pascha","nona","antiphona"]
     ],
-    "datum":""
+    "datum":"mode:d;%%(c3)"
   },
   {
 		"tags":["pascha","dominica","ii-vesperae","antiphona","antiphona-magnificat"],

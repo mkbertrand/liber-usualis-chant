@@ -13,8 +13,9 @@
   },
   {
 		"tags":["completorium","responsorium-breve"],
-    "incipit":"In(f) ma(f)nus(f) tu(fg)as(gf) Dó(gf)mi(g)ne,(gh..) (,)",
-    "responsum":"co(h')men(f)do(gh) spí(g)ri(fd)tum(fg) me(g.)um.(f.)",
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"In(f) ma(f)nus(f) tu(fg)as(gf) Dó(gf)mi(g)ne,(gh..)",
+    "responsum":"Com(h')mén(f)do(gh) spí(g)ri(fd)tum(fg) me(g.)um.(f.)",
     "versus":"Re(h)de(h)mís(ixhi)ti(h) nos(h) Dó(gh)mi(g)ne,(g'_) (,) De(h)us(g') ve(g)ri(gf)tá(g)tis.(gh..)"
   },
   {

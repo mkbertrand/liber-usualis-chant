@@ -8,11 +8,11 @@
   {
     "tags":["formula","responsorium-breve"],
     "datum":[
-      "", "", " *(:) ", "",
-      " (::) ", "", " (:) ", "",
-      " (::) ", "", " (:) ", "",
-      " (::) Gló(h)ri(h)a(h) Pa(ixhi)tri,(h'_) (,) et(h) Fí(gh)li(g)o,(g,_) (,) et(g) Spi(g)rí(h')tu(g)i(f') sanc(g)to.(gh..)",
-      " (::) ", "", " (:) ", ""
+      ["modus","responsorium-breve"], null, " *(;) ", null,
+      " (::) ", null, " (;) ", null,
+      " (::) <v>\\Vbar</v> ", null, " (:) <v>\\Rbar</v> ", null,
+      " (::) <v>\\Vbar</v> Gló(h)ri(h)a(h) Pa(ixhi)tri,(h'_) (,) et(h) Fí(gh)li(g)o,(g,_) (,) et(g) Spi(g)rí(h')tu(g)i(f') sanc(g)to.(gh..)",
+      " (::) <v>\\Rbar</v> ", null, " (;) ", null
     ]
   },
   {

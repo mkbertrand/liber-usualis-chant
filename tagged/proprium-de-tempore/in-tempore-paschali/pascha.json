@@ -38,6 +38,15 @@
 		"datum":[["/antiphonae/1358"]]
   },
   {
+    "tags":[
+      ["pascha","prima","antiphona"],
+      ["pascha","tertia","antiphona"],
+      ["pascha","sexta","antiphona"],
+      ["pascha","nona","antiphona"]
+    ],
+    "datum":null
+  },
+  {
 		"tags":["pascha","dominica","ii-vesperae","antiphona","antiphona-magnificat"],
 		"datum":[["/antiphonae/2732"]]
   },

@@ -6,6 +6,16 @@
 		"solemnis":[["/etc/7402"]]
   },
   {
+    "tags":["formula","responsorium-breve"],
+    "datum":[
+      "", "", " *(:) ", "",
+      " (::) ", "", " (:) ", "",
+      " (::) ", "", " (:) ",
+      " (::) ", "Gló(h)ri(h)a(h) Pa(ixhi)tri,(h'_) (,) et(h) Fí(gh)li(g)o,(g,_) (,) et(g) Spi(g)rí(h')tu(g)i(f') sanc(g)to.(gh..)",
+      " (::) ", "", " (:) ", ""
+    ]
+  },
+  {
 		"tags":["sollemnitas","benedicamus-domino"],
 		"i-vesperae":[["/etc/4567"]],
 		"laudes":[["/etc/10336"]],

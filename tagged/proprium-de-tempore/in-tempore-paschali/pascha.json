@@ -51,6 +51,10 @@
     "datum":"mode:d;%%(c3)"
   },
   {
+    "tags":["pascha","ii-vesperae","completorium","antiphona","antiphona-nunc-dimittis"],
+    "datum":"mode:d;%%(c3)"
+  },
+  {
 		"tags":["pascha","dominica","ii-vesperae","antiphona","antiphona-magnificat"],
 		"datum":[["/antiphonae/2732"]]
   },

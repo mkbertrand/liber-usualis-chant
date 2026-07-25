@@ -11,8 +11,29 @@
 		"datum":[["/antiphonae/19869"]]
   },
   {
+		"tags":["nona","dominica","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Cla(f)má(g)vi(f') in(f) to(f)to(f) cor(f)de(f) me(g_[uh:l]h)o:(hg..)",
+    "responsum":"Ex(f)áu(gh)di(g) me(fd) Dó(fg)mi(g)ne.(f.) (::)",
+    "versus":"Ju(ixhi)sti(h)fi(h)ca(h)ti(h)ó(h)nes(h) tu(gh)as(g'_[oh:h]) (,) re(f)quí(g_[uh:l]h)ram.(hg..)"
+  },
+  {
 		"tags":["nona","feria","antiphona"],
 		"datum":[["/antiphonae/19887"]]
+  },
+  {
+		"tags":["nona","feria","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Re(f)di(f)me(g) me(fe) Dó(f)mi(g)ne,(gh..)",
+    "responsum":"Et(h) mi(f)se(gh)ré(gv_FD)re(fg) me(g.)i.(f.) (::)",
+    "versus":"Pes(ixhi) e(h)nim(h) me(gh)us(g'_) (,) ste(g)tit(g') in(h) vi(g)a(gf) re(g)cta.(gh..)"
+  },
+  {
+		"tags":["nona","in-tempore-adventus","temporale","responsorium-breve"],
+    "modus":"mode:4;\n%%\n(f3) ",
+    "incipit":"Su(h)per(h) te(h) Je(hf)rú(g')sa(h)lem(i.)",
+    "responsum":"O(g')ri(h)é(fe)tur(f') Dó(h)mi(h)nus.(g.) (::)",
+    "versus":"Et(e) gló(fh)ri(h)a(h) e(gh)jus(h'_) (,) in(h) te(h) vi(hf)dé(g')bi(h)tur.(i.)"
   },
   {
 		"tags":["nona","feria","antiphona"],
@@ -20,8 +41,29 @@
 		"in-tempore-passionis":[["/antiphonae/12996"]]
   },
   {
+		"tags":["nona","in-tempore-quadragesimae","temporale","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Scu(f)to(f) cir(g)cúm(f')da(g)bit(gh) te(hg..)",
+    "responsum":"Vé(fd)ri(f)tas(g) e(g.)jus.(f.) (::)",
+    "versus":"Non(ixhi) ti(h)mé(gh)bis(g'_[oh:h]) (,) a(g) ti(g)mó(h)re(g') no(f)ctúr(g_[uh:l]h)no.(hg..)"
+  },
+  {
+		"tags":["nona","in-tempore-passionis","temporale","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Ne(f) per(g)das(f') cum(f) ím(g)pi(gh)is(hg..)",
+    "responsum":"De(f)us(gh) á(g)ni(fd)mam(fg) me(g.)am.(f.) (::)",
+    "versus":"Et(ixhi) cum(h) vi(h)ris(h) sán(gh)gui(g)num(g'_[oh:h]) (,) vi(g)tam(f) me(g_[uh:l]h)am.(hg..)"
+  },
+  {
 		"tags":["nona","in-tempore-paschali","temporale","antiphona"],
 		"datum":[["/antiphonae/18553"]]
+  },
+  {
+		"tags":["nona","in-tempore-paschali","temporale","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Ga(f)ví(f)si(f) sunt(f) di(e)scí(g')pu(g)li:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Vi(f)so(e) Dó(g')mi(g)no.(h.)"
   },
 	{
 		"tags":[

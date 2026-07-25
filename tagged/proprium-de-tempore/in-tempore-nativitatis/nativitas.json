@@ -43,6 +43,30 @@
 		"datum":[["/antiphonae/2782"]]
   },
   {
+		"tags":["nativitas","tertia","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "formula":[["cum-alleluja","responsorium-breve","formula"]],
+    "incipit":"Ver(f)bum(f) ca(f)ro(e) fa(g')ctum(g) est:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Et(f) ha(f)bi(f)tá(g)vit(f) in(e') no(g)bis.(h.)"
+  },
+  {
+		"tags":["nativitas","sexta","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "formula":[["cum-alleluja","responsorium-breve","formula"]],
+    "incipit":"No(f)tum(f) fe(f)cit(e) Dó(g')mi(g)nus:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Sa(f)lu(f)tá(f)re(e') su(g)um.(h.)"
+  },
+  {
+		"tags":["nativitas","nona","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "formula":[["cum-alleluja","responsorium-breve","formula"]],
+    "incipit":"Vi(f)dé(g)runt(f) o(f)mnes(f) fi(f)nes(e') ter(g)rae:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Sa(f)lu(f)tá(g)re(f) De(f)i(e') no(g)stri.(h.)"
+  },
+  {
 		"tags":["nativitas","ii-vesperae","antiphona"],
 		"antiphona-i":[["/antiphonae/2728"]],
 		"antiphona-ii":[["/antiphonae/2736"]],

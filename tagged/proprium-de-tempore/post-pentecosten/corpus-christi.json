@@ -52,6 +52,30 @@
 		"datum":[["/antiphonae/11844"]]
   },
   {
+		"tags":["corpus-christi","tertia","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "formula":[["cum-alleluja","responsorium-breve","formula"]],
+    "incipit":"Pa(f)nem(f) cœ(g)li(f) de(f)dit(e') e(g)is:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Pa(f)nem(f) An(f)ge(f)ló(g)rum(f'_) (,) man(f)du(f)cá(f)vit(e') ho(g)mo.(h.)"
+  },
+  {
+		"tags":["corpus-christi","sexta","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "formula":[["cum-alleluja","responsorium-breve","formula"]],
+    "incipit":"Ci(f)bá(f)vit(f) il(g)los(f'_) (,) ex(f) á(f)di(f)pe(f) fru(e')mén(g)ti:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Et(f) de(f) pe(f)tra,(f) mel(g)le(f'_) (,) sa(f)tu(f)rá(f)vit(e') e(g)os.(h.)"
+  },
+  {
+		"tags":["corpus-christi","nona","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "formula":[["cum-alleluja","responsorium-breve","formula"]],
+    "incipit":"E(f)dú(f)cas(f) pa(g)nem(f) de(e') ter(g)ra:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Et(f) vi(g)num(f'_) (,) læ(f)tí(f)fi(f)cet(f) cor(e) hó(g')mi(g)nis.(h.)"
+  },
+  {
 		"tags":["corpus-christi","ii-vesperae","antiphona","antiphona-magnificat"],
 		"datum":[["/antiphonae/13329"]]
   },

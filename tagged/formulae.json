@@ -16,7 +16,11 @@
     ]
   },
   {
-    "tags":["formula","responsorium-breve","in-tempore-adventus","temporale"],
+    "tags":[
+      ["formula","responsorium-breve","in-tempore-adventus","temporale"],
+      ["formula","responsorium-breve","in-tempore-adventus","prima"],
+      ["formula","responsorium-breve","in-tempore-adventus","completorium"]
+    ],
     "datum":[
       ["modus","responsorium-breve"], null, " *(;) ", null,
       " ", null, " (;) ", null,

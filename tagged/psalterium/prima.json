@@ -15,6 +15,53 @@
 		"datum":[["/antiphonae/11135"]]
   },
   {
+		"tags":["prima","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Chri(f)ste(f) Fi(f)li(f) De(g')i(f) vi(g_[uh:l]h)vi,(hg..)",
+    "responsum":"Mi(f)se(gh)ré(gv_[oh:h]FD)re(fg) no(g.)bis.(f.) (::)",
+    "versus":"Qui(h) se(ixhi)des(g'_[oh:h]) (,) ad(g) déx(h)te(g')ram(f) Pa(g_[uh:l]h)tris.(hg..)"
+  },
+  {
+		"tags":["prima","in-tempore-adventus","responsorium-breve"],
+    "modus":"mode:4;\n%%\n(f3) ",
+    "incipit":"Chri(h)ste(h) Fi(h)li(h) De(h)i(hf) vi(gh)vi,(i.)",
+    "responsum":"Mi(g)se(h)ré(fe)re(fh) no(h)bis.(g.) (::)",
+    "versus":"Qui(e) ven(fh)tú(h)rus(h) es(h) in(hf) mun(gh)dum.(i.)"
+  },
+  {
+		"tags":["prima","in-tempore-paschali","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Chri(f)ste(f) Fi(f)li(f) De(f)i(f) vi(g)vi,(f'_) (,) mi(f)se(f)ré(f)re(e') no(g)bis:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Qui(f) sur(f)re(f)xí(g)sti(f) a(e) mór(g')tu(g)is.(h.)"
+  },
+  {
+		"tags":[
+			["prima","tempus-mariae","responsorium-breve","versus"],
+			["prima","in-tempore-nativitatis","responsorium-breve","versus"],
+			["prima","nomen-jesu","responsorium-breve","versus"],
+			["prima","infra-octavam-corporis-christi","responsorium-breve","versus"]
+		],
+    "datum":"Qui(h) na(ixhi)tus(g) es(g'_) (,) de(g) Ma(h)rí(g)a(f') Vír(g)gi(gh)ne.(hg..)",
+    "in-tempore-adventus":"Qui(e) na(fh)tus(h) es(h'_) (,) de(h) Ma(h)rí(h)a(hf) Vír(g')gi(h)ne.(i.)",
+    "in-tempore-paschali":"Qui(f) na(g)tus(f) es(f'_) (,) de(f) Ma(f)rí(f)a(e) Vír(g')gi(g)ne.(h.)"
+  },
+  {
+		"tags":[
+			["prima","per-octavam-epiphaniae","responsorium-breve","versus"],
+			["prima","transfiguratio","responsorium-breve","versus"]
+		],
+    "datum":"Qui(h) ap(h)pa(ixhi)ru(g)ís(g)ti(f') hó(g)di(gh)e.(hg..)"
+  },
+  {
+		"tags":["prima","in-tempore-ascensionis","responsorium-breve","versus"],
+    "datum":"Qui(f) scan(g)dis(f) su(f)per(e) sí(g')de(g)ra.(h.)"
+  },
+  {
+		"tags":["prima","pentecostes","responsorium-breve","versus"],
+    "datum":"Qui(f) se(g)des(f) ad(f) déx(f)te(f)ram(e') Pat(g)ris.(h.)"
+  },
+  {
 		"tags":["prima","feria","antiphona"],
 		"in-tempore-quadragesimae":[["/antiphonae/12733"]],
 		"in-tempore-passionis":[["/antiphonae/12847"]]

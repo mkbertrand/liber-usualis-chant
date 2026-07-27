@@ -40,6 +40,27 @@
 		"datum":[["/antiphonae/2177"]]
   },
   {
+		"tags":["martyres","tertia","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Læ(f)tá(g)mi(f)ni(f) in(f') Dó(g)mi(gh)no,(hg..)",
+    "responsum":"Et(g) ex(f)sul(gh)tá(gv_[oh:h]FD)te(fg) ju(g.)sti.(f.) (::)",
+    "versus":"Et(ixhi) glo(h)ri(h)á(gh)mi(g)ni(g'_[oh:h]) (,) o(h)mnes(g') re(g)cti(f) cor(g_[uh:l]h)de.(hg..)"
+  },
+  {
+		"tags":["martyres","sexta","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Ex(f)súl(g')tent(f) ju(g_[uh:l]h)sti(hg..)",
+    "responsum":"In(f) con(gh)spé(gv_[oh:h]FD)ctu(fg) De(g.)i.(f.) (::)",
+    "versus":"Et(ixhi) de(h)le(h)ctén(gh)tur(g'_[oh:h]) (,) in(g) læ(f')tí(g)ti(gh)a.(hg..)"
+  },
+  {
+		"tags":["martyres","nona","responsorium-breve"],
+    "modus":"mode:6;\n%%\n(c4) ",
+    "incipit":"Ju(f)sti(f) au(g_[uh:l]h)tem(hg..)",
+    "responsum":"In(f) per(gh)pé(g)tu(fd)um(fg) vi(g.)vent.(f.) (::)",
+    "versus":"Et(ixhi) a(h)pud(h) Dó(gh)mi(g)num(g'_[oh:h]) (,) est(g) mer(h)ces(g') e(f)ó(g_[uh:l]h)rum.(hg..)"
+  },
+  {
     "tags":["martyres","ii-vesperae","antiphona"],
     "antiphona-i":[["/antiphonae/2186"]],
     "antiphona-ii":[["/antiphonae/2482"]],

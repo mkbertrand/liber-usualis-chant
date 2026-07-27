@@ -55,14 +55,12 @@
   {
 		"tags":["epiphania","tertia","responsorium-breve"],
     "formula":[["cum-alleluja","responsorium-breve","formula"]],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"Re(f)ges(f) Thar(f)sis(f) et(f) ín(g)su(f)lae(f'_) (,) mú(f)ne(f)ra(e) óf(g')fe(g)rent:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
     "versus":"Re(f)ges(f) A(f)ra(f)bum(f) et(f) Sa(g)ba(f'_) (,) do(f)na(f) ad(e')dú(g)cent.(h.)"
   },
   {
 		"tags":["epiphania","sexta","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "formula":[["cum-alleluja","responsorium-breve","formula"]],
     "incipit":"O(f)mnes(f) de(f) Sa(f)ba(e) vé(g')ni(g)ent:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
@@ -70,7 +68,6 @@
   },
   {
 		"tags":["epiphania","nona","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "formula":[["cum-alleluja","responsorium-breve","formula"]],
     "incipit":"Ad(f)o(f)rá(f)te(e) Dó(g')mi(g)num:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",

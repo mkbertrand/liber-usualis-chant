@@ -50,21 +50,18 @@
   },
   {
 		"tags":["ascensio","tertia","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"A(f)scén(f)dit(f) De(g)us(f'_) (,) in(f) ju(f)bi(f)la(f)ti(e')ó(g)ne:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
     "versus":"Et(f) Dó(g)mi(f)nus(f) in(f) vo(f)ce(e') tu(g)bæ.(h.)"
   },
   {
 		"tags":["ascensio","sexta","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"A(f)scén(f)dens(f) Chri(g)stus(f) in(e') al(g)tum:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
     "versus":"Ca(f)ptí(f)vam(f) du(g)xit(f) ca(f)pti(f)vi(e')tá(g)tem.(h.)"
   },
   {
 		"tags":["ascensio","nona","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"A(f)scén(f)do(f) ad(f) Pa(f)trem(f) me(g)um,(f'_) (,) et(f) Pa(f)trem(e') ve(g)strum:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
     "versus":"De(f)um(f) me(g)um,(f'_) (,) et(f) De(f)um(e') ve(g)strum.(h.)"

@@ -12,7 +12,6 @@
   },
   {
 		"tags":["sexta","dominica","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"In(f) æ(f)tér(fg)num,(g) Dó(gf)mi(g)ne,(gh..)",
     "responsum":"Pér(h)ma(f)net(gh) ver(gv_[oh:h]FD)bum(fg) tu(g.)um.(f.) (::)",
     "versus":"In(h) saé(ixhi)cu(h)lum(h) saé(gh)cu(g)li(g_[oh:h]f_[oh:h]) (,) vé(fg)ri(g)tas(gf) tu(g)a.(gh..)"
@@ -23,14 +22,12 @@
   },
   {
 		"tags":["sexta","feria","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"Be(f)ne(f)dí(g)cam(fe) Dó(f)mi(g)num(gh..)",
     "responsum":"In(fh) o(g)mni(f) tém(g)po(f)re.(f.) (::)",
     "versus":"Sem(h)per(ixi) laus(hg) e(h)jus(g'_) (,) in(g) o(fe)re(f) me(g)o.(gh..)"
   },
   {
 		"tags":["sexta","in-tempore-adventus","temporale","responsorium-breve"],
-    "modus":"mode:4;\n%%\n(f3) ",
     "incipit":"Os(h)tén(h)de(h) no(h)bis(hf) Dó(g')mi(h)ne(i.)",
     "responsum":"Mi(i)se(g')ri(h)cór(fe~)di(f')am(h) tu(h)am.(g.) (::)",
     "versus":"Et(e) sa(fh)lu(h)tá(h)re(h) tu(h')um(h) (,) da(hf) no(gh)bis.(i.)"
@@ -42,14 +39,12 @@
   },
   {
 		"tags":["sexta","in-tempore-quadragesimae","temporale","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"Scá(f)pu(f)lis(f) su(g_[uh:l]h)is(hg..)",
     "responsum":"Ob(f)um(gh)brá(gv_[oh:h]FD)bit(fg) ti(g.)bi.(f.) (::)",
     "versus":"Et(ixhi) sub(h) pen(h)nis(h) e(gh)jus(g'_[oh:h]) (,) spe(f)rá(g_[uh:l]h)bis.(hg..)"
   },
   {
 		"tags":["sexta","in-tempore-passionis","temporale","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"De(f) o(g)re(f') le(f)ó(g_[uh:l]h)nis(hg..)",
     "responsum":"Lí(fg'h)be(g)ra(fd) me(fg) Dó(g)mi(f)ne.(f.) (::)",
     "versus":"Et(h) a(h) cór(ixhi)ni(h)bus(h) u(h)ni(h)cór(gh)ni(g)um(g'_[oh:h]) (,) hu(g)mi(g)li(h)tá(g')tem(f) me(g_[uh:l]h)am.(hg..)"
@@ -60,7 +55,6 @@
   },
   {
 		"tags":["sexta","in-tempore-paschali","temporale","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"Sur(f)ré(f)xit(f) Dó(g)mi(f)nus(e') ve(g)re:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
     "versus":"Et(f) ap(f)pá(g)ru(f)it(f) Si(e')mó(g)ni.(h.)"

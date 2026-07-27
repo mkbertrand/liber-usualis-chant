@@ -53,7 +53,6 @@
   },
   {
 		"tags":["corpus-christi","tertia","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "formula":[["cum-alleluja","responsorium-breve","formula"]],
     "incipit":"Pa(f)nem(f) cœ(g)li(f) de(f)dit(e') e(g)is:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
@@ -61,7 +60,6 @@
   },
   {
 		"tags":["corpus-christi","sexta","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "formula":[["cum-alleluja","responsorium-breve","formula"]],
     "incipit":"Ci(f)bá(f)vit(f) il(g)los(f'_) (,) ex(f) á(f)di(f)pe(f) fru(e')mén(g)ti:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
@@ -69,7 +67,6 @@
   },
   {
 		"tags":["corpus-christi","nona","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "formula":[["cum-alleluja","responsorium-breve","formula"]],
     "incipit":"E(f)dú(f)cas(f) pa(g)nem(f) de(e') ter(g)ra:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",

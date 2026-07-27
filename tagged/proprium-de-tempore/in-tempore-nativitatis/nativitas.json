@@ -44,7 +44,6 @@
   },
   {
 		"tags":["nativitas","tertia","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "formula":[["cum-alleluja","responsorium-breve","formula"]],
     "incipit":"Ver(f)bum(f) ca(f)ro(e) fa(g')ctum(g) est:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
@@ -52,7 +51,6 @@
   },
   {
 		"tags":["nativitas","sexta","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "formula":[["cum-alleluja","responsorium-breve","formula"]],
     "incipit":"No(f)tum(f) fe(f)cit(e) Dó(g')mi(g)nus:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
@@ -60,7 +58,6 @@
   },
   {
 		"tags":["nativitas","nona","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "formula":[["cum-alleluja","responsorium-breve","formula"]],
     "incipit":"Vi(f)dé(g)runt(f) o(f)mnes(f) fi(f)nes(e') ter(g)rae:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",

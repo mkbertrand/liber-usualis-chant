@@ -18,13 +18,12 @@
       ["tertia","dominica","responsorium-breve","hebdomada-quinquagesimae"]
     ],
     "formula":[
-      ["modus","responsorium-breve"], null, " *(;) ", null,
+      "mode:4;\n%%\n(c4) ", null, " *(;) ", null,
       " ", null, " (;) ", null,
       " <v>\\Vbar</v> ", null, " (:) <v>\\Rbar</v> ", null,
       " <v>\\Vbar</v> Gló(ixih)ri(gh)a(gf) Pa(ixgi)tri,(i'_) (,) et(h) Fí(gh)li(g)o,(g'_) (,) et(h) Spi(g)rí(f')tu(g)i(ixi) San(ixhi)cto.(ih..) (::)",
       " <v>\\Rbar</v> ", null, " (;) ", null
     ],
-    "modus":"mode:4;\n%%\n(c4) ",
     "incipit":"In(h)clí(gh)na(h) cor(h) me(h)um,(hj) De(hg)us,(gh..)",
     "responsum":"In(gf~) te(g)sti(h)mó(hj)ni(ixi)a(ih) tu(gh)a.(h.) (::)",
     "versus":"A(ixih)vér(gh)te(gf) ó(ixgi)cu(i)los(h) me(gh)os,(g'_) (,) ne(g) vi(gh)dé(g)ant(gf) va(g)ni(ixi)tá(hi)tem:(ih..)"
@@ -35,14 +34,12 @@
   },
   {
 		"tags":["tertia","feria","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"Sa(f)na(f') á(g)ni(fe)mam(f') me(g)am,(gh..)",
     "responsum":"Qui(h)a(f) pec(gh)cá(gv_[oh:h]FD)vi(fg) ti(g.)bi.(f.) (::)",
     "versus":"E(ixhi)go(h) di(h)xi :(h) Dó(gh)mi(g)ne,(f'_) (,) mi(f)se(g)ré(fe)re(f') me(g)i.(gh..)"
   },
   {
 		"tags":["tertia","in-tempore-adventus","temporale","responsorium-breve"],
-    "modus":"mode:4;\n%%\n(f3) ",
     "incipit":"Ve(h)ni(h) ad(h) li(h)be(hf)rán(g')dum(h) nos,(i.)",
     "responsum":"Dó(i)mi(g')ne(h) De(fe)us(f') vir(h)tú(h)tum.(g.) (::)",
     "versus":"Os(e)tén(fh)de(h) fá(h)ci(h)em(h) tu(gh)am,(h'_) (,) et(h) sal(h)vi(hf) é(g')ri(h)mus.(i.)"
@@ -54,14 +51,12 @@
   },
   {
 		"tags":["tertia","in-tempore-quadragesimae","temporale","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"I(f)pse(f) li(g)be(f')rá(g)vit(gh) me(hg..)",
     "responsum":"De(f) lá(gh)que(g)o(fd) ve(fg)nán(g)ti(f)um.(f.) (::)",
     "versus":"Et(ixhi) a(g) ver(g)bo(f') á(g)spe(gh)ro.(hg..)"
   },
   {
 		"tags":["tertia","in-tempore-passionis","temporale","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"E(fg)ru(f)e(f') a(f) frá(g)me(gh)a(hg..)",
     "responsum":"De(f)us(gh) á(g)ni(fd)mam(fg) me(g.)am.(f.) (::)",
     "versus":"Et(ixhi) de(h) ma(h)nu(h) ca(gh)nis(g'_[oh:h]) (,) ú(h)ni(g')cam(f) me(g_[uh:l]h)am.(hg..)"
@@ -72,7 +67,6 @@
   },
   {
 		"tags":["tertia","in-tempore-paschali","temporale","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"Sur(f)ré(f)xit(f) Dó(g)mi(f)nus(f) de(f) se(e')púl(g)chro:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
     "versus":"Qui(f) pro(f) no(g)bis(f'_) (,) pe(f)pén(f)dit(f) in(e') li(g)gno.(h.)"

@@ -8,7 +8,7 @@
   {
     "tags":["formula","responsorium-breve"],
     "datum":[
-      ["modus","responsorium-breve"], null, " *(;) ", null,
+      "mode:6;\n%%\n(c4) ", null, " *(;) ", null,
       " ", null, " (;) ", null,
       " <v>\\Vbar</v> ", null, " (:) <v>\\Rbar</v> ", null,
       " <v>\\Vbar</v> Gló(h)ri(h)a(h) Pa(ixhi)tri,(h'_) (,) et(h) Fí(gh)li(g)o,(g'_) (,) et(g) Spi(g)rí(h')tu(g)i(f') sanc(g)to.(gh..) (::)",
@@ -22,7 +22,7 @@
       ["formula","responsorium-breve","in-tempore-adventus","completorium"]
     ],
     "datum":[
-      ["modus","responsorium-breve"], null, " *(;) ", null,
+      "mode:4;\n%%\n(f3) ", null, " *(;) ", null,
       " ", null, " (;) ", null,
       " <v>\\Vbar</v> ", null, " (:) <v>\\Rbar</v> ", null,
       " <v>\\Vbar</v> Gló(i)ri(i)a(i) Pa(ij)tri,(j'_) (,) et(j) Fí(i)li(j)o,(g'_) (,) et(h) Spi(h)rí(h)tu(h)i(hf) sanc(gh)to.(i.) (::)",
@@ -32,7 +32,7 @@
   {
 		"tags":["formula","in-tempore-passionis","responsorium-breve","temporale"],
     "datum":[
-      ["modus","responsorium-breve"], null, " *(;) ", null,
+      "mode:6;\n%%\n(c4) ", null, " *(;) ", null,
       " ", null, " (;) ", null,
       " <v>\\Vbar</v> ", null, " (:) <v>\\Rbar</v> ", null,
       " <v>\\Rbar</v> ", null, " (;) ", null
@@ -41,7 +41,7 @@
   {
     "tags":["formula","responsorium-breve","in-tempore-paschali"],
     "datum":[
-      ["modus","responsorium-breve"], null, " *(;) ", null,
+      "mode:6;\n%%\n(c4) ", null, " *(;) ", null,
       " ", null, " (;) ", null,
       " <v>\\Vbar</v> ", null, " (:) <v>\\Rbar</v> ", null,
       " <v>\\Vbar</v> Gló(f)ri(f)a(e') Pa(g)tri,(h'_) (,) et(h) Fí(ixhi)li(h)o,(h'_) (,) et(h) Spi(h)rí(h')tu(g)i(h') sanc(g)to.(gf..) (::)",

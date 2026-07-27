@@ -16,21 +16,18 @@
   },
   {
 		"tags":["prima","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"Chri(f)ste(f) Fi(f)li(f) De(g')i(f) vi(g_[uh:l]h)vi,(hg..)",
     "responsum":"Mi(f)se(gh)ré(gv_[oh:h]FD)re(fg) no(g.)bis.(f.) (::)",
     "versus":"Qui(h) se(ixhi)des(g'_[oh:h]) (,) ad(g) déx(h)te(g')ram(f) Pa(g_[uh:l]h)tris.(hg..)"
   },
   {
 		"tags":["prima","in-tempore-adventus","responsorium-breve"],
-    "modus":"mode:4;\n%%\n(f3) ",
     "incipit":"Chri(h)ste(h) Fi(h)li(h) De(h)i(hf) vi(gh)vi,(i.)",
     "responsum":"Mi(g)se(h)ré(fe)re(fh) no(h)bis.(g.) (::)",
     "versus":"Qui(e) ven(fh)tú(h)rus(h) es(h) in(hf) mun(gh)dum.(i.)"
   },
   {
 		"tags":["prima","in-tempore-paschali","responsorium-breve"],
-    "modus":"mode:6;\n%%\n(c4) ",
     "incipit":"Chri(f)ste(f) Fi(f)li(f) De(f)i(f) vi(g)vi,(f'_) (,) mi(f)se(f)ré(f)re(e') no(g)bis:(h.)",
     "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
     "versus":"Qui(f) sur(f)re(f)xí(g)sti(f) a(e) mór(g')tu(g)is.(h.)"

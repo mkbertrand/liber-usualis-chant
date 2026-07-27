@@ -39,7 +39,10 @@
     ]
   },
   {
-    "tags":["formula","responsorium-breve","in-tempore-paschali"],
+    "tags":[
+      ["formula","responsorium-breve","in-tempore-paschali"],
+      ["formula","responsorium-breve","cum-alleluja"]
+    ],
     "datum":[
       "mode:6;\n%%\n(c4) ", null, " *(;) ", null,
       " ", null, " (;) ", null,

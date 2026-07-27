@@ -48,6 +48,27 @@
 		"datum":[["/antiphonae/13061"]]
   },
   {
+		"tags":["transfiguratio","tertia","responsorium-breve"],
+    "formula":[["cum-alleluja","responsorium-breve","formula"]],
+    "incipit":"Glo(f)ri(f)ó(f)sus(f) ap(f)pa(f)ru(f)í(g)sti(f'_) (,) in(f) con(f)spé(f)ctu(e) Dó(g')mi(g)ni:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Pro(f)ptér(f)e(f)a(f) de(f)có(g)rem(f'_) (,) ín(f)du(f)it(f) te(e) Dó(g')mi(g)nus.(h.)"
+  },
+  {
+		"tags":["transfiguratio","sexta","responsorium-breve"],
+    "formula":[["cum-alleluja","responsorium-breve","formula"]],
+    "incipit":"Gló(f)ri(f)a(f) et(g') ho(f)nó(g_[uh:l]h)re(hg..)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Et(ixhi) con(h)sti(h)tu(h)í(h)sti(h) e(gh)um(g'_[oh:h]) (,) su(g)per(g) ó(h)pe(g)ra(g) má(g)nu(g)um(g') tu(f)á(g_[uh:l]h)rum.(hg..)"
+  },
+  {
+		"tags":["transfiguratio","nona","responsorium-breve"],
+    "formula":[["cum-alleluja","responsorium-breve","formula"]],
+    "incipit":"Ma(f)gna(f) est(f) gló(f)ri(f)a(f) e(g)jus(f'_) (,) in(f) sa(f)lu(f)tá(f)ri(e') tu(g)o:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Gló(f)ri(f)am(f) et(f) ma(f)gnum(f) de(f)có(g)rem(f'_) (,) im(f)pó(f)nes(f) su(f)per(e') e(g)um.(h.)"
+  },
+  {
 		"tags":["transfiguratio","ii-vesperae","antiphona","antiphona-magnificat"],
 		"datum":[["/antiphonae/2577"]]
   }

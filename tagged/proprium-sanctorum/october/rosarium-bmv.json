@@ -58,6 +58,24 @@
 		"datum":[["/antiphonae/13287"]]
   },
   {
+		"tags":["rosarium-bmv","tertia","responsorium-breve"],
+    "incipit":"San(f)cta(f) De(g)i(f') Gé(g)ni(gh)trix,(hg..)",
+    "responsum":"Sem(f)per(gh) Vir(g)go(fd) Ma(fg)rí(g.)a.(f.) (::)",
+    "versus":"In(ixhi)ter(h)cé(h)de(h) pro(h) no(gh)bis(g'_) (,) ad(g) Dó(h)mi(g)num(g) De(g')um(f) no(g_h)strum.(hg..)"
+  },
+  {
+		"tags":["rosarium-bmv","sexta","responsorium-breve"],
+    "incipit":"Post(f) par(g')tum(f) Vir(g_[uh:l]h)go(hg..)",
+    "responsum":"In(g)vi(f)o(gh)lá(g)ta(fd) per(f)man(g)sí(g.)sti.(f.) (::)",
+    "versus":"De(ixhi)i(h) Gé(gh)ni(g)trix(g'_[oh:h]) (,) in(g)ter(g)cé(h)de(g') pro(f) no(g_[uh:l]h)bis.(hg..)"
+  },
+  {
+		"tags":["rosarium-bmv","nona","responsorium-breve"],
+    "incipit":"Spe(f)ci(f)ó(g)sa(f') fa(g)cta(gh) es(hg..)",
+    "responsum":"Et(fd) su(gh)á(g.)vis.(f.) (::)",
+    "versus":"In(ixhi) de(h)lí(h)ci(h)is(h) tu(gh)is,(g'_[oh:h]) (,) san(g)cta(g') De(h)i(gf) Gé(g)ni(gh)trix.(hg..)"
+  },
+  {
 		"tags":["rosarium-bmv","hymnus"],
 		"ii-vesperae":[["/hymni/2698"]]
   },

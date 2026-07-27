@@ -43,6 +43,12 @@
 		"datum":[["/antiphonae/12819"]]
   },
   {
+		"tags":["patrocinius-joseph","sexta","responsorium-breve","in-tempore-paschali"],
+    "incipit":"Con(f)fi(f)té(g)bor(f) nó(f)mi(f)ni(e') tu(g)o:(h.)",
+    "responsum":"Al(h)le(h_g)lú(g)ja,(f'_) al(d)le(f_g)lú(gf~)ja.(f.) (::)",
+    "versus":"Quó(f)ni(f)am(f) ad(f)jú(f)tor(f) et(f) pro(f)té(g)ctor(f'_) (,) fa(f)ctus(f) es(e') mi(g)hi.(h.)"
+  },
+  {
 		"tags":["patrocinius-joseph","ii-vesperae","antiphona","antiphona-magnificat"],
 		"datum":[["/antiphonae/12371"]]
   }

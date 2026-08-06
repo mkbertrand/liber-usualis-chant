@@ -2,6 +2,7 @@
   "1": [
     {
       "initium": ["f", "gh"],
+      "tenor": ["h"],
       "flexa": ["h", "gr", "g."],
       "medians": ["ixi", "hr", "h", "g", "hr", "h."],
       "1 a": ["g", "f", "g", "hr", "h."],
@@ -19,6 +20,7 @@
   "2": [
     {
       "initium": ["e", "f", "h"],
+      "tenor": ["h"],
       "flexa": ["h", "fr", "f."],
       "medians": ["i", "hr", "h."],
       "2 A": ["g", "e", "fr", "f."],
@@ -26,6 +28,7 @@
     },
     {
       "initium": ["e", "f", "h"],
+      "tenor": ["h"],
       "flexa": ["h", "fr", "f."],
       "medians": ["i", "hr", "h."],
       "2 D": ["g", "e", "fr", "f."],
@@ -35,6 +38,7 @@
   "3": [
     {
       "initium": ["g", "hj"],
+      "tenor": ["j"],
       "flexa": ["j", "hr", "h."],
       "medians": ["k", "jr", "j", "jr", "ih", "j."],
       "3 a": ["h", "j", "jr", "ih.."],
@@ -48,6 +52,7 @@
   "4": [
     {
       "initium": ["i", "hi"],
+      "tenor": ["i"],
       "flexa": ["i", "hr", "h."],
       "medians": ["h", "i", "j", "ir", "i."],
       "4 A": ["h", "i", "j", "h", "fr", "f."],
@@ -57,6 +62,7 @@
     },
     {
       "initium": ["h", "gh"],
+      "tenor": ["h"],
       "flexa": ["h", "gr", "g."],
       "medians": ["g", "h", "i", "hr", "h."],
       "4 E": ["g", "h", "ih", "gr", "gf", "e."],
@@ -67,6 +73,7 @@
   "5": [
     {
       "initium": ["d", "f", "h"],
+      "tenor": ["h"],
       "flexa": ["h", "fr", "f."],
       "medians": ["i", "hr", "h."],
       "5 a": ["i", "gr", "g", "h", "fr", "f."],
@@ -76,6 +83,7 @@
   "6": [
     {
       "initium": ["f", "gh"],
+      "tenor": ["h"],
       "flexa": ["h", "gr", "g."],
       "medians": ["g", "h", "fr", "f."],
       "6 C": ["f", "gh", "g", "fr", "f."],
@@ -83,6 +91,7 @@
     },
     {
       "initium": ["f", "gh"],
+      "tenor": ["h"],
       "flexa": ["h", "gr", "g."],
       "medians": ["g", "h", "fr", "f."],
       "6 F": ["f", "gh", "g", "fr", "f."],
@@ -92,6 +101,7 @@
   "7": [
     {
       "initium": ["hg", "hi"],
+      "tenor": ["i"],
       "flexa": ["i", "hr", "h."],
       "medians": ["k", "jr", "j", "i", "jr", "j."],
       "7 a": ["j", "ir", "i", "h", "hr", "gf.."],
@@ -105,6 +115,7 @@
   "8": [
     {
       "initium": ["g", "h", "j"],
+      "tenor": ["j"],
       "flexa": ["j", "hr", "h."],
       "medians": ["k", "jr", "j."],
       "8 c": ["h", "j", "k", "jr", "j."],
@@ -116,6 +127,7 @@
   "p": [
     {
       "initium": ["ixhi"],
+      "tenor": ["g"],
       "flexa": ["h", "gr", "g."],
       "medians": ["g", "ixi", "h", "g", "fr", "f."],
       "p": ["d", "f", "fr", "ed.."],
@@ -125,6 +137,7 @@
   "d": [
     {
       "initium": ["e", "f", "h"],
+      "tenor": ["h"],
       "flexa": [],
       "medians": ["i", "i", "fr", "f."],
       "d": ["e", "f", "g", "fr", "f."],

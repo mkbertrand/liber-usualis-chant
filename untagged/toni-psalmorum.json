@@ -141,7 +141,7 @@
       "flexa": [],
       "medians": ["i", "i", "fr", "f."],
       "d": ["e", "f", "g", "fr", "f."],
-      "clavis": ["c3"]
+      "clavis": "c3"
     }
   ]
 }
